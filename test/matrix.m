@@ -1,0 +1,1 @@
+fileA = 'test/matAR';fileB = 'test/matBR';fileC = 'test/matC_octave';A = csvread(fileA);B = csvread(fileB);csvwrite(fileC, A*B)

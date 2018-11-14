@@ -1,0 +1,91 @@
+# Sources:
+SRCDIR	= src/thr
+OBJDIR	= obj/thr
+SRCS 	:= $(SRCDIR)/thread.c $(SRCDIR)/utility.c $(SRCDIR)/main_thr.c
+OBJS 	:= $(SRCS:$(SRCDIR)/%.c=$(OBJDIR)/%.o)
+
+# config OS
+UNAME := $(shell uname)
+ifeq ($(UNAME), Linux)
+	CC		= gcc
+	CFLAGS	= -std=gnu99 -Wall -c -pthread
+	LFLAGS	= -pthread
+	LD		= gcc
+endif
+ifeq ($(UNAME), Darwin)
+	CC		= clang
+	CFLAGS	= -std=c99 -Wall -g -c -pthread
+	LD		= clang
+endif
+
+calcola_thr.x: $(OBJS)
+	@$(LD) $(LFLAGS) -o $@ $^
+	@echo "Linking complete!"
+
+$(OBJDIR)/utility.o: $(SRCDIR)/utility.c $(SRCDIR)/utility.h
+	@$(CC) $(CFLAGS) -o $@ $<
+	@echo "Compiled "$<" successfully!"
+
+$(OBJDIR)/thread.o: $(SRCDIR)/thread.c $(SRCDIR)/thread.h $(SRCDIR)/utility.h
+	@$(CC) $(CFLAGS) -o $@ $<
+	@echo "Compiled "$<" successfully!"
+
+$(OBJDIR)/main_thr.o: $(SRCDIR)/main_thr.c $(SRCDIR)/utility.h $(SRCDIR)/thread.h
+	@$(CC) $(CFLAGS) -o $@ $<
+	@echo "Compiled "$<" successfully!"
+
+clean:
+	@rm $(OBJS)
+	@echo "Cleanup complete!"
+
+remove: clean
+	@rm -f calcola_thr.x
+	@echo "Executable removed!"
+
+.PHONY: clean remove
+
+# # sources
+# TARGET 	= calcola_thr.x
+
+# # config OS
+# UNAME := $(shell uname)
+# ifeq ($(UNAME), Linux)
+# 	CC		= gcc
+# 	CFLAGS	= -std=gnu99 -Wall -c -pthread
+# 	LDLIBS	= -pthread
+# 	LD		= gcc
+# endif
+# ifeq ($(UNAME), Darwin)
+# 	CC		= clang
+# 	CFLAGS	= -std=c99 -Wall -g -c -pthread
+# 	LD		= clang
+# endif
+
+# # change these to proper directories where each file should be
+# SRCDIR   = src/thr
+# OBJDIR   = obj/thr
+# BINDIR   = .
+
+# SOURCES  := $(wildcard $(SRCDIR)/*.c)
+# INCLUDES := $(wildcard $(SRCDIR)/*.h)
+# OBJECTS  := $(SOURCES:$(SRCDIR)/%.c=$(OBJDIR)/%.o)
+# rm       = rm -f
+
+
+# $(BINDIR)/$(TARGET): $(OBJECTS)
+# 	@$(LD) $(OBJECTS) $(LDLIBS) -o $@
+# 	@echo "Linking complete!"
+
+# $(OBJECTS): $(OBJDIR)/%.o : $(SRCDIR)/%.c
+# 	@$(CC) $(CFLAGS) -c $< -o $@
+# 	@echo "Compiled "$<" successfully!"
+
+# .PHONY: clean
+# clean:
+# 	@$(rm) $(OBJECTS)
+# 	@echo "Cleanup complete!"
+
+# .PHONY: remove
+# remove: clean
+# 	@$(rm) $(BINDIR)/$(TARGET)
+# 	@echo "Executable removed!"

@@ -1,0 +1,1643 @@
+
+2
+Child (1): 11044 do -> comand 0 row 0 col 0
+2
+Child (3): 11046 do -> comand 0 row 0 col 2
+2
+Child (5): 11048 do -> comand 0 row 0 col 4
+2
+Child (6): 11049 do -> comand 0 row 0 col 5
+2
+Child (7): 11050 do -> comand 0 row 0 col 6
+2
+Child (8): 11051 do -> comand 0 row 0 col 7
+2
+Child (12): 11055 do -> comand 0 row 0 col 11
+2
+Child (13): 11056 do -> comand 0 row 0 col 12
+2
+Child (14): 11057 do -> comand 0 row 0 col 13
+2
+Child (16): 11059 do -> comand 0 row 0 col 15
+2
+Child (17): 11060 do -> comand 0 row 0 col 16
+2
+Child (15): 11058 do -> comand 0 row 0 col 14
+2
+Child (2): 11045 do -> comand 0 row 0 col 1
+2
+Child (18): 11061 do -> comand 0 row 0 col 17
+2
+Child (19): 11062 do -> comand 0 row 0 col 18
+2
+Child (20): 11063 do -> comand 0 row 0 col 19
+2
+Child (21): 11064 do -> comand 0 row 0 col 20
+2
+Child (22): 11065 do -> comand 0 row 0 col 21
+2
+Child (4): 11047 do -> comand 0 row 0 col 3
+2
+Child (9): 11052 do -> comand 0 row 0 col 8
+2
+Child (10): 11053 do -> comand 0 row 0 col 9
+2
+Child (11): 11054 do -> comand 0 row 0 col 10
+2
+Child (23): 11066 do -> comand 0 row 0 col 22
+2
+Child (24): 11067 do -> comand 0 row 0 col 23
+2
+Child (25): 11068 do -> comand 0 row 0 col 24
+2
+Child (26): 11069 do -> comand 0 row 0 col 25
+2
+Child (27): 11070 do -> comand 0 row 0 col 26
+2
+Child (28): 11071 do -> comand 0 row 1 col 0
+2
+Child (29): 11072 do -> comand 0 row 1 col 1
+2
+Child (30): 11073 do -> comand 0 row 1 col 2
+2
+Child (31): 11074 do -> comand 0 row 1 col 3
+2
+Child (32): 11075 do -> comand 0 row 1 col 4
+2
+Child (34): 11077 do -> comand 0 row 1 col 6
+Child (6): 11049 do -> comand 0 row 1 col 10
+2
+Child (35): 11078 do -> comand 0 row 1 col 7
+Child (8): 11051 do -> comand 0 row 1 col 12
+Child (13): 11056 do -> comand 0 row 1 col 14
+Child (14): 11057 do -> comand 0 row 1 col 15
+Child (16): 11059 do -> comand 0 row 1 col 16
+Child (15): 11058 do -> comand 0 row 1 col 18
+Child (2): 11045 do -> comand 0 row 1 col 19
+Child (19): 11062 do -> comand 0 row 1 col 21
+Child (21): 11064 do -> comand 0 row 1 col 23
+Child (4): 11047 do -> comand 0 row 1 col 25
+Child (23): 11066 do -> comand 0 row 2 col 2
+Child (26): 11069 do -> comand 0 row 2 col 5
+2
+Child (33): 11076 do -> comand 0 row 1 col 5
+Child (5): 11048 do -> comand 0 row 1 col 9
+Child (7): 11050 do -> comand 0 row 1 col 11
+Child (17): 11060 do -> comand 0 row 1 col 17
+Child (20): 11063 do -> comand 0 row 1 col 22
+Child (22): 11065 do -> comand 0 row 1 col 24
+Child (9): 11052 do -> comand 0 row 1 col 26
+Child (24): 11067 do -> comand 0 row 2 col 3
+Child (27): 11070 do -> comand 0 row 2 col 6
+Child (28): 11071 do -> comand 0 row 2 col 7
+Child (10): 11053 do -> comand 0 row 2 col 8
+Child (30): 11073 do -> comand 0 row 2 col 9
+Child (31): 11074 do -> comand 0 row 2 col 10
+Child (32): 11075 do -> comand 0 row 2 col 11
+Child (34): 11077 do -> comand 0 row 2 col 12
+2
+Child (36): 11079 do -> comand 0 row 2 col 4
+Child (12): 11055 do -> comand 0 row 1 col 13
+Child (35): 11078 do -> comand 0 row 2 col 14
+Child (16): 11059 do -> comand 0 row 2 col 16
+Child (15): 11058 do -> comand 0 row 2 col 17
+Child (3): 11046 do -> comand 0 row 2 col 1
+Child (2): 11045 do -> comand 0 row 2 col 18
+Child (21): 11064 do -> comand 0 row 2 col 20
+Child (23): 11066 do -> comand 0 row 2 col 22
+Child (29): 11072 do -> comand 0 row 2 col 23
+Child (13): 11056 do -> comand 0 row 2 col 25
+Child (17): 11060 do -> comand 0 row 2 col 26
+Child (25): 11068 do -> comand 0 row 3 col 0
+Child (24): 11067 do -> comand 0 row 3 col 3
+Child (27): 11070 do -> comand 0 row 3 col 4
+Child (28): 11071 do -> comand 0 row 3 col 6
+Child (10): 11053 do -> comand 0 row 3 col 7
+Child (30): 11073 do -> comand 0 row 3 col 8
+Child (32): 11075 do -> comand 0 row 3 col 9
+Child (14): 11057 do -> comand 0 row 2 col 15
+Child (12): 11055 do -> comand 0 row 3 col 11
+Child (35): 11078 do -> comand 0 row 3 col 12
+Child (19): 11062 do -> comand 0 row 2 col 19
+Child (4): 11047 do -> comand 0 row 2 col 21
+Child (1): 11044 do -> comand 0 row 1 col 8
+Child (22): 11065 do -> comand 0 row 3 col 1
+Child (9): 11052 do -> comand 0 row 3 col 2
+Child (18): 11061 do -> comand 0 row 1 col 20
+Child (3): 11046 do -> comand 0 row 3 col 15
+Child (2): 11045 do -> comand 0 row 3 col 16
+Child (21): 11064 do -> comand 0 row 3 col 17
+Child (23): 11066 do -> comand 0 row 3 col 18
+Child (29): 11072 do -> comand 0 row 3 col 19
+Child (17): 11060 do -> comand 0 row 3 col 20
+Child (6): 11049 do -> comand 0 row 3 col 22
+Child (27): 11070 do -> comand 0 row 3 col 24
+Child (10): 11053 do -> comand 0 row 3 col 26
+Child (30): 11073 do -> comand 0 row 4 col 0
+Child (32): 11075 do -> comand 0 row 4 col 1
+Child (15): 11058 do -> comand 0 row 3 col 14
+Child (14): 11057 do -> comand 0 row 4 col 2
+Child (20): 11063 do -> comand 0 row 4 col 4
+Child (4): 11047 do -> comand 0 row 4 col 6
+Child (1): 11044 do -> comand 0 row 4 col 7
+Child (22): 11065 do -> comand 0 row 4 col 8
+Child (7): 11050 do -> comand 0 row 4 col 10
+Child (24): 11067 do -> comand 0 row 3 col 23
+Child (28): 11071 do -> comand 0 row 3 col 25
+Child (2): 11045 do -> comand 0 row 4 col 14
+Child (34): 11077 do -> comand 0 row 3 col 10
+Child (11): 11054 do -> comand 0 row 2 col 0
+Child (27): 11070 do -> comand 0 row 4 col 19
+Child (10): 11053 do -> comand 0 row 4 col 20
+Child (30): 11073 do -> comand 0 row 4 col 21
+Child (3): 11046 do -> comand 0 row 4 col 24
+Child (19): 11062 do -> comand 0 row 4 col 5
+Child (26): 11069 do -> comand 0 row 3 col 5
+Child (8): 11051 do -> comand 0 row 2 col 13
+Child (25): 11068 do -> comand 0 row 3 col 21
+Child (31): 11074 do -> comand 0 row 4 col 13
+Child (13): 11056 do -> comand 0 row 4 col 12
+Child (29): 11072 do -> comand 0 row 4 col 16
+Child (16): 11059 do -> comand 0 row 3 col 13
+Child (33): 11076 do -> comand 0 row 2 col 24
+Child (32): 11075 do -> comand 0 row 4 col 22
+Child (15): 11058 do -> comand 0 row 4 col 23
+Child (5): 11048 do -> comand 0 row 4 col 26
+Child (1): 11044 do -> comand 0 row 5 col 0
+Child (22): 11065 do -> comand 0 row 5 col 1
+Child (9): 11052 do -> comand 0 row 5 col 2
+Child (24): 11067 do -> comand 0 row 5 col 3
+Child (21): 11064 do -> comand 0 row 4 col 15
+Child (2): 11045 do -> comand 0 row 5 col 5
+Child (11): 11054 do -> comand 0 row 5 col 7
+Child (18): 11061 do -> comand 0 row 5 col 8
+Child (10): 11053 do -> comand 0 row 5 col 9
+Child (12): 11055 do -> comand 0 row 4 col 3
+Child (30): 11073 do -> comand 0 row 5 col 11
+Child (3): 11046 do -> comand 0 row 5 col 12
+Child (36): 11079 do -> comand 0 row 4 col 9
+Child (7): 11050 do -> comand 0 row 5 col 15
+Child (31): 11074 do -> comand 0 row 5 col 16
+Child (27): 11070 do -> comand 0 row 5 col 18
+Child (32): 11075 do -> comand 0 row 5 col 19
+Child (5): 11048 do -> comand 0 row 5 col 20
+Child (8): 11051 do -> comand 0 row 5 col 22
+Child (6): 11049 do -> comand 0 row 4 col 18
+Child (21): 11064 do -> comand 0 row 5 col 25
+Child (24): 11067 do -> comand 0 row 5 col 24
+Child (11): 11054 do -> comand 0 row 6 col 0
+Child (10): 11053 do -> comand 0 row 6 col 2
+Child (23): 11066 do -> comand 0 row 5 col 13
+Child (35): 11078 do -> comand 0 row 4 col 11
+Child (28): 11071 do -> comand 0 row 5 col 4
+Child (34): 11077 do -> comand 0 row 5 col 6
+Child (17): 11060 do -> comand 0 row 4 col 17
+Child (29): 11072 do -> comand 0 row 5 col 26
+Child (14): 11057 do -> comand 0 row 5 col 10
+Child (12): 11055 do -> comand 0 row 6 col 3
+Child (30): 11073 do -> comand 0 row 6 col 4
+Child (3): 11046 do -> comand 0 row 6 col 5
+Child (13): 11056 do -> comand 0 row 5 col 17
+Child (7): 11050 do -> comand 0 row 6 col 7
+Child (31): 11074 do -> comand 0 row 6 col 8
+Child (19): 11062 do -> comand 0 row 5 col 21
+Child (32): 11075 do -> comand 0 row 6 col 10
+Child (9): 11052 do -> comand 0 row 5 col 23
+Child (8): 11051 do -> comand 0 row 6 col 12
+Child (6): 11049 do -> comand 0 row 6 col 13
+Child (18): 11061 do -> comand 0 row 6 col 15
+Child (29): 11072 do -> comand 0 row 7 col 8
+Child (15): 11058 do -> comand 0 row 6 col 16
+Child (10): 11053 do -> comand 0 row 6 col 17
+Child (1): 11044 do -> comand 0 row 6 col 18
+Child (22): 11065 do -> comand 0 row 6 col 19
+Child (5): 11048 do -> comand 0 row 6 col 21
+Child (24): 11067 do -> comand 0 row 6 col 23
+Child (27): 11070 do -> comand 0 row 6 col 9
+Child (30): 11073 do -> comand 0 row 6 col 26
+Child (25): 11068 do -> comand 0 row 7 col 3
+Child (34): 11077 do -> comand 0 row 7 col 5
+Child (21): 11064 do -> comand 0 row 6 col 14
+Child (8): 11051 do -> comand 0 row 7 col 7
+Child (20): 11063 do -> comand 0 row 4 col 25
+Child (26): 11069 do -> comand 0 row 5 col 14
+Child (35): 11078 do -> comand 0 row 6 col 20
+Child (16): 11059 do -> comand 0 row 6 col 22
+Child (12): 11055 do -> comand 0 row 6 col 25
+Child (7): 11050 do -> comand 0 row 7 col 2
+Child (33): 11076 do -> comand 0 row 6 col 1
+Child (11): 11054 do -> comand 0 row 7 col 9
+Child (10): 11053 do -> comand 0 row 7 col 11
+Child (3): 11046 do -> comand 0 row 7 col 12
+Child (14): 11057 do -> comand 0 row 6 col 24
+Child (24): 11067 do -> comand 0 row 7 col 14
+Child (27): 11070 do -> comand 0 row 7 col 15
+Child (2): 11045 do -> comand 0 row 6 col 11
+Child (17): 11060 do -> comand 0 row 7 col 17
+Child (9): 11052 do -> comand 0 row 7 col 6
+Child (25): 11068 do -> comand 0 row 7 col 19
+Child (18): 11061 do -> comand 0 row 7 col 21
+Child (29): 11072 do -> comand 0 row 7 col 10
+Child (5): 11048 do -> comand 0 row 7 col 25
+Child (28): 11071 do -> comand 0 row 7 col 13
+Child (15): 11058 do -> comand 0 row 8 col 2
+Child (3): 11046 do -> comand 0 row 8 col 4
+Child (32): 11075 do -> comand 0 row 7 col 16
+Child (16): 11059 do -> comand 0 row 8 col 7
+Child (24): 11067 do -> comand 0 row 8 col 8
+Child (30): 11073 do -> comand 0 row 7 col 18
+Child (34): 11077 do -> comand 0 row 7 col 20
+Child (4): 11047 do -> comand 0 row 7 col 22
+Child (35): 11078 do -> comand 0 row 7 col 24
+Child (36): 11079 do -> comand 0 row 6 col 6
+Child (12): 11055 do -> comand 0 row 7 col 26
+Child (11): 11054 do -> comand 0 row 8 col 1
+Child (20): 11063 do -> comand 0 row 8 col 3
+Child (22): 11065 do -> comand 0 row 8 col 5
+Child (14): 11057 do -> comand 0 row 8 col 6
+Child (19): 11062 do -> comand 0 row 7 col 4
+Child (2): 11045 do -> comand 0 row 8 col 9
+Child (6): 11049 do -> comand 0 row 8 col 11
+Child (9): 11052 do -> comand 0 row 8 col 12
+Child (1): 11044 do -> comand 0 row 7 col 23
+Child (18): 11061 do -> comand 0 row 8 col 14
+Child (5): 11048 do -> comand 0 row 8 col 16
+Child (33): 11076 do -> comand 0 row 8 col 0
+Child (31): 11074 do -> comand 0 row 8 col 18
+Child (3): 11046 do -> comand 0 row 8 col 19
+Child (32): 11075 do -> comand 0 row 8 col 20
+Child (23): 11066 do -> comand 0 row 7 col 0
+Child (13): 11056 do -> comand 0 row 7 col 1
+Child (25): 11068 do -> comand 0 row 8 col 23
+Child (4): 11047 do -> comand 0 row 8 col 24
+Child (35): 11078 do -> comand 0 row 8 col 25
+Child (12): 11055 do -> comand 0 row 9 col 0
+Child (14): 11057 do -> comand 0 row 9 col 3
+Child (7): 11050 do -> comand 0 row 9 col 5
+Child (6): 11049 do -> comand 0 row 9 col 7
+Child (9): 11052 do -> comand 0 row 9 col 9
+Child (33): 11076 do -> comand 0 row 9 col 12
+Child (24): 11067 do -> comand 0 row 8 col 21
+Child (17): 11060 do -> comand 0 row 8 col 10
+Child (22): 11065 do -> comand 0 row 9 col 2
+Child (8): 11051 do -> comand 0 row 8 col 13
+Child (21): 11064 do -> comand 0 row 9 col 6
+Child (34): 11077 do -> comand 0 row 9 col 8
+Child (28): 11071 do -> comand 0 row 8 col 17
+Child (31): 11074 do -> comand 0 row 9 col 13
+Child (30): 11073 do -> comand 0 row 8 col 22
+Child (23): 11066 do -> comand 0 row 9 col 16
+Child (13): 11056 do -> comand 0 row 9 col 17
+Child (25): 11068 do -> comand 0 row 9 col 18
+Child (19): 11062 do -> comand 0 row 9 col 4
+Child (14): 11057 do -> comand 0 row 9 col 21
+Child (29): 11072 do -> comand 0 row 9 col 23
+Child (10): 11053 do -> comand 0 row 9 col 10
+Child (9): 11052 do -> comand 0 row 9 col 24
+Child (3): 11046 do -> comand 0 row 9 col 14
+Child (35): 11078 do -> comand 0 row 10 col 0
+Child (32): 11075 do -> comand 0 row 9 col 15
+Child (1): 11044 do -> comand 0 row 10 col 2
+Child (18): 11061 do -> comand 0 row 10 col 3
+Child (21): 11064 do -> comand 0 row 10 col 4
+Child (28): 11071 do -> comand 0 row 10 col 5
+Child (31): 11074 do -> comand 0 row 10 col 6
+Child (2): 11045 do -> comand 0 row 9 col 19
+Child (12): 11055 do -> comand 0 row 9 col 20
+Child (13): 11056 do -> comand 0 row 10 col 10
+Child (5): 11048 do -> comand 0 row 9 col 11
+Child (17): 11060 do -> comand 0 row 10 col 1
+Child (36): 11079 do -> comand 0 row 8 col 26
+Child (24): 11067 do -> comand 0 row 10 col 8
+Child (26): 11069 do -> comand 0 row 8 col 15
+Child (8): 11051 do -> comand 0 row 10 col 12
+Child (7): 11050 do -> comand 0 row 9 col 22
+Child (10): 11053 do -> comand 0 row 10 col 15
+Child (15): 11058 do -> comand 0 row 9 col 25
+Child (3): 11046 do -> comand 0 row 10 col 17
+Child (27): 11070 do -> comand 0 row 10 col 19
+Child (30): 11073 do -> comand 0 row 10 col 7
+Child (21): 11064 do -> comand 0 row 10 col 22
+Child (31): 11074 do -> comand 0 row 10 col 24
+Child (25): 11068 do -> comand 0 row 10 col 11
+Child (12): 11055 do -> comand 0 row 10 col 26
+Child (6): 11049 do -> comand 0 row 10 col 14
+Child (22): 11065 do -> comand 0 row 11 col 3
+Child (9): 11052 do -> comand 0 row 10 col 16
+Child (35): 11078 do -> comand 0 row 10 col 18
+Child (1): 11044 do -> comand 0 row 10 col 20
+Child (18): 11061 do -> comand 0 row 10 col 21
+Child (28): 11071 do -> comand 0 row 10 col 23
+Child (2): 11045 do -> comand 0 row 10 col 25
+Child (14): 11057 do -> comand 0 row 10 col 13
+Child (17): 11060 do -> comand 0 row 11 col 2
+Child (19): 11062 do -> comand 0 row 11 col 4
+Child (26): 11069 do -> comand 0 row 11 col 5
+Child (7): 11050 do -> comand 0 row 11 col 7
+Child (15): 11058 do -> comand 0 row 11 col 8
+Child (5): 11048 do -> comand 0 row 11 col 9
+Child (3): 11046 do -> comand 0 row 11 col 10
+Child (27): 11070 do -> comand 0 row 11 col 11
+Child (30): 11073 do -> comand 0 row 11 col 12
+Child (23): 11066 do -> comand 0 row 10 col 9
+Child (11): 11054 do -> comand 0 row 9 col 1
+Child (24): 11067 do -> comand 0 row 11 col 13
+Child (34): 11077 do -> comand 0 row 11 col 0
+Child (20): 11063 do -> comand 0 row 11 col 1
+Child (13): 11056 do -> comand 0 row 11 col 17
+Child (36): 11079 do -> comand 0 row 11 col 20
+Child (28): 11071 do -> comand 0 row 11 col 22
+Child (2): 11045 do -> comand 0 row 11 col 23
+Child (17): 11060 do -> comand 0 row 11 col 25
+Child (22): 11065 do -> comand 0 row 11 col 26
+Child (15): 11058 do -> comand 0 row 12 col 2
+Child (35): 11078 do -> comand 0 row 12 col 4
+Child (12): 11055 do -> comand 0 row 11 col 15
+Child (8): 11051 do -> comand 0 row 11 col 6
+Child (18): 11061 do -> comand 0 row 11 col 21
+Child (14): 11057 do -> comand 0 row 11 col 24
+Child (32): 11075 do -> comand 0 row 12 col 3
+Child (1): 11044 do -> comand 0 row 12 col 5
+Child (30): 11073 do -> comand 0 row 12 col 6
+Child (23): 11066 do -> comand 0 row 12 col 7
+Child (10): 11053 do -> comand 0 row 11 col 16
+Child (9): 11052 do -> comand 0 row 11 col 18
+Child (34): 11077 do -> comand 0 row 12 col 10
+Child (20): 11063 do -> comand 0 row 12 col 11
+Child (36): 11079 do -> comand 0 row 12 col 14
+Child (19): 11062 do -> comand 0 row 12 col 0
+Child (5): 11048 do -> comand 0 row 12 col 18
+Child (15): 11058 do -> comand 0 row 12 col 20
+Child (27): 11070 do -> comand 0 row 12 col 21
+Child (31): 11074 do -> comand 0 row 11 col 14
+Child (3): 11046 do -> comand 0 row 12 col 26
+Child (14): 11057 do -> comand 0 row 13 col 0
+Child (32): 11075 do -> comand 0 row 13 col 2
+Child (25): 11068 do -> comand 0 row 12 col 9
+Child (33): 11076 do -> comand 0 row 11 col 19
+Child (16): 11059 do -> comand 0 row 9 col 26
+Child (2): 11045 do -> comand 0 row 12 col 16
+Child (26): 11069 do -> comand 0 row 12 col 1
+Child (24): 11067 do -> comand 0 row 12 col 22
+Child (7): 11050 do -> comand 0 row 12 col 25
+Child (4): 11047 do -> comand 0 row 13 col 1
+Child (35): 11078 do -> comand 0 row 13 col 4
+Child (11): 11054 do -> comand 0 row 12 col 8
+Child (10): 11053 do -> comand 0 row 13 col 5
+Child (13): 11056 do -> comand 0 row 12 col 13
+Child (34): 11077 do -> comand 0 row 13 col 7
+Child (28): 11071 do -> comand 0 row 12 col 15
+Child (8): 11051 do -> comand 0 row 13 col 8
+Child (20): 11063 do -> comand 0 row 13 col 9
+Child (22): 11065 do -> comand 0 row 12 col 19
+Child (18): 11061 do -> comand 0 row 13 col 10
+Child (29): 11072 do -> comand 0 row 12 col 23
+Child (5): 11048 do -> comand 0 row 13 col 11
+Child (31): 11074 do -> comand 0 row 13 col 14
+Child (3): 11046 do -> comand 0 row 13 col 15
+Child (23): 11066 do -> comand 0 row 13 col 16
+Child (14): 11057 do -> comand 0 row 13 col 17
+Child (6): 11049 do -> comand 0 row 12 col 12
+Child (25): 11068 do -> comand 0 row 13 col 19
+Child (33): 11076 do -> comand 0 row 13 col 20
+Child (27): 11070 do -> comand 0 row 13 col 24
+Child (4): 11047 do -> comand 0 row 13 col 25
+Child (17): 11060 do -> comand 0 row 12 col 17
+Child (35): 11078 do -> comand 0 row 13 col 26
+Child (10): 11053 do -> comand 0 row 14 col 1
+Child (16): 11059 do -> comand 0 row 14 col 2
+Child (28): 11071 do -> comand 0 row 14 col 4
+Child (20): 11063 do -> comand 0 row 14 col 6
+Child (12): 11055 do -> comand 0 row 12 col 24
+Child (29): 11072 do -> comand 0 row 14 col 8
+Child (7): 11050 do -> comand 0 row 14 col 10
+Child (3): 11046 do -> comand 0 row 14 col 12
+Child (23): 11066 do -> comand 0 row 14 col 13
+Child (36): 11079 do -> comand 0 row 13 col 21
+Child (24): 11067 do -> comand 0 row 13 col 23
+Child (11): 11054 do -> comand 0 row 14 col 0
+Child (34): 11077 do -> comand 0 row 14 col 3
+Child (21): 11064 do -> comand 0 row 13 col 13
+Child (30): 11073 do -> comand 0 row 14 col 9
+Child (32): 11075 do -> comand 0 row 13 col 18
+Child (6): 11049 do -> comand 0 row 14 col 15
+Child (25): 11068 do -> comand 0 row 14 col 16
+Child (33): 11076 do -> comand 0 row 14 col 18
+Child (17): 11060 do -> comand 0 row 14 col 19
+Child (16): 11059 do -> comand 0 row 14 col 22
+Child (12): 11055 do -> comand 0 row 14 col 25
+Child (15): 11058 do -> comand 0 row 13 col 12
+Child (18): 11061 do -> comand 0 row 14 col 7
+Child (29): 11072 do -> comand 0 row 14 col 26
+Child (5): 11048 do -> comand 0 row 14 col 11
+Child (26): 11069 do -> comand 0 row 15 col 5
+Child (9): 11052 do -> comand 0 row 13 col 6
+Child (34): 11077 do -> comand 0 row 15 col 6
+Child (3): 11046 do -> comand 0 row 15 col 8
+Child (19): 11062 do -> comand 0 row 13 col 22
+Child (2): 11045 do -> comand 0 row 14 col 17
+Child (35): 11078 do -> comand 0 row 14 col 20
+Child (7): 11050 do -> comand 0 row 15 col 0
+Child (1): 11044 do -> comand 0 row 13 col 3
+Child (27): 11070 do -> comand 0 row 15 col 2
+Child (14): 11057 do -> comand 0 row 14 col 14
+Child (23): 11066 do -> comand 0 row 15 col 9
+Child (6): 11049 do -> comand 0 row 15 col 10
+Child (10): 11053 do -> comand 0 row 14 col 21
+Child (28): 11071 do -> comand 0 row 14 col 23
+Child (11): 11054 do -> comand 0 row 15 col 14
+Child (13): 11056 do -> comand 0 row 15 col 1
+Child (12): 11055 do -> comand 0 row 15 col 16
+Child (21): 11064 do -> comand 0 row 15 col 7
+Child (29): 11072 do -> comand 0 row 15 col 19
+Child (34): 11077 do -> comand 0 row 15 col 22
+Child (24): 11067 do -> comand 0 row 15 col 12
+Child (8): 11051 do -> comand 0 row 14 col 5
+Child (16): 11059 do -> comand 0 row 15 col 15
+Child (4): 11047 do -> comand 0 row 15 col 3
+Child (15): 11058 do -> comand 0 row 15 col 17
+Child (31): 11074 do -> comand 0 row 15 col 18
+Child (33): 11076 do -> comand 0 row 15 col 11
+Child (36): 11079 do -> comand 0 row 15 col 24
+Child (18): 11061 do -> comand 0 row 15 col 25
+Child (21): 11064 do -> comand 0 row 16 col 0
+Child (34): 11077 do -> comand 0 row 16 col 2
+Child (24): 11067 do -> comand 0 row 16 col 3
+Child (8): 11051 do -> comand 0 row 16 col 4
+Child (16): 11059 do -> comand 0 row 16 col 5
+Child (26): 11069 do -> comand 0 row 16 col 6
+Child (22): 11065 do -> comand 0 row 15 col 4
+Child (9): 11052 do -> comand 0 row 15 col 21
+Child (17): 11060 do -> comand 0 row 15 col 13
+Child (13): 11056 do -> comand 0 row 15 col 26
+Child (6): 11049 do -> comand 0 row 16 col 8
+Child (12): 11055 do -> comand 0 row 16 col 9
+Child (33): 11076 do -> comand 0 row 16 col 11
+Child (7): 11050 do -> comand 0 row 16 col 12
+Child (30): 11073 do -> comand 0 row 16 col 13
+Child (27): 11070 do -> comand 0 row 16 col 15
+Child (32): 11075 do -> comand 0 row 16 col 16
+Child (8): 11051 do -> comand 0 row 16 col 17
+Child (25): 11068 do -> comand 0 row 16 col 18
+Child (26): 11069 do -> comand 0 row 16 col 21
+Child (1): 11044 do -> comand 0 row 16 col 24
+Child (18): 11061 do -> comand 0 row 16 col 25
+Child (31): 11074 do -> comand 0 row 16 col 10
+Child (21): 11064 do -> comand 0 row 16 col 14
+Child (16): 11059 do -> comand 0 row 16 col 19
+Child (15): 11058 do -> comand 0 row 16 col 22
+Child (5): 11048 do -> comand 0 row 15 col 20
+Child (14): 11057 do -> comand 0 row 16 col 26
+Child (10): 11053 do -> comand 0 row 17 col 0
+Child (22): 11065 do -> comand 0 row 17 col 1
+Child (20): 11063 do -> comand 0 row 14 col 24
+Child (35): 11078 do -> comand 0 row 17 col 2
+Child (17): 11060 do -> comand 0 row 17 col 3
+Child (36): 11079 do -> comand 0 row 17 col 4
+Child (4): 11047 do -> comand 0 row 17 col 5
+Child (13): 11056 do -> comand 0 row 17 col 6
+Child (11): 11054 do -> comand 0 row 16 col 20
+Child (23): 11066 do -> comand 0 row 16 col 7
+Child (8): 11051 do -> comand 0 row 17 col 9
+Child (25): 11068 do -> comand 0 row 17 col 11
+Child (9): 11052 do -> comand 0 row 16 col 23
+Child (6): 11049 do -> comand 0 row 17 col 13
+Child (1): 11044 do -> comand 0 row 17 col 14
+Child (18): 11061 do -> comand 0 row 17 col 15
+Child (31): 11074 do -> comand 0 row 17 col 16
+Child (30): 11073 do -> comand 0 row 17 col 17
+Child (16): 11059 do -> comand 0 row 17 col 19
+Child (5): 11048 do -> comand 0 row 17 col 21
+Child (10): 11053 do -> comand 0 row 17 col 22
+Child (20): 11063 do -> comand 0 row 17 col 23
+Child (29): 11072 do -> comand 0 row 16 col 1
+Child (34): 11077 do -> comand 0 row 17 col 7
+Child (3): 11046 do -> comand 0 row 17 col 8
+Child (28): 11071 do -> comand 0 row 17 col 10
+Child (26): 11069 do -> comand 0 row 17 col 12
+Child (19): 11062 do -> comand 0 row 15 col 23
+Child (24): 11067 do -> comand 0 row 17 col 18
+Child (15): 11058 do -> comand 0 row 17 col 20
+Child (33): 11076 do -> comand 0 row 17 col 24
+Child (7): 11050 do -> comand 0 row 17 col 26
+Child (4): 11047 do -> comand 0 row 18 col 0
+Child (2): 11045 do -> comand 0 row 18 col 1
+Child (13): 11056 do -> comand 0 row 18 col 2
+Child (11): 11054 do -> comand 0 row 18 col 3
+Child (23): 11066 do -> comand 0 row 18 col 4
+Child (8): 11051 do -> comand 0 row 18 col 5
+Child (25): 11068 do -> comand 0 row 18 col 6
+Child (9): 11052 do -> comand 0 row 18 col 7
+Child (6): 11049 do -> comand 0 row 18 col 8
+Child (1): 11044 do -> comand 0 row 18 col 9
+Child (14): 11057 do -> comand 0 row 18 col 10
+Child (31): 11074 do -> comand 0 row 18 col 12
+Child (30): 11073 do -> comand 0 row 18 col 13
+Child (35): 11078 do -> comand 0 row 18 col 14
+Child (5): 11048 do -> comand 0 row 18 col 16
+Child (10): 11053 do -> comand 0 row 18 col 17
+Child (32): 11075 do -> comand 0 row 18 col 19
+Child (34): 11077 do -> comand 0 row 18 col 21
+Child (3): 11046 do -> comand 0 row 18 col 23
+Child (26): 11069 do -> comand 0 row 18 col 25
+Child (15): 11058 do -> comand 0 row 19 col 1
+Child (7): 11050 do -> comand 0 row 19 col 3
+Child (2): 11045 do -> comand 0 row 19 col 5
+Child (11): 11054 do -> comand 0 row 19 col 7
+Child (8): 11051 do -> comand 0 row 19 col 9
+Child (9): 11052 do -> comand 0 row 19 col 11
+Child (18): 11061 do -> comand 0 row 18 col 11
+Child (36): 11079 do -> comand 0 row 17 col 25
+Child (16): 11059 do -> comand 0 row 18 col 15
+Child (27): 11070 do -> comand 0 row 18 col 18
+Child (29): 11072 do -> comand 0 row 18 col 20
+Child (19): 11062 do -> comand 0 row 18 col 26
+Child (24): 11067 do -> comand 0 row 19 col 0
+Child (20): 11063 do -> comand 0 row 19 col 2
+Child (4): 11047 do -> comand 0 row 19 col 4
+Child (13): 11056 do -> comand 0 row 19 col 6
+Child (23): 11066 do -> comand 0 row 19 col 8
+Child (25): 11068 do -> comand 0 row 19 col 10
+Child (6): 11049 do -> comand 0 row 19 col 12
+Child (22): 11065 do -> comand 0 row 19 col 13
+Child (1): 11044 do -> comand 0 row 19 col 14
+Child (12): 11055 do -> comand 0 row 19 col 15
+Child (17): 11060 do -> comand 0 row 19 col 17
+Child (30): 11073 do -> comand 0 row 19 col 18
+Child (33): 11076 do -> comand 0 row 19 col 19
+Child (21): 11064 do -> comand 0 row 18 col 22
+Child (10): 11053 do -> comand 0 row 19 col 21
+Child (34): 11077 do -> comand 0 row 19 col 23
+Child (15): 11058 do -> comand 0 row 19 col 25
+Child (11): 11054 do -> comand 0 row 20 col 0
+Child (18): 11061 do -> comand 0 row 20 col 4
+Child (16): 11059 do -> comand 0 row 20 col 6
+Child (27): 11070 do -> comand 0 row 20 col 8
+Child (29): 11072 do -> comand 0 row 20 col 9
+Child (24): 11067 do -> comand 0 row 20 col 11
+Child (20): 11063 do -> comand 0 row 20 col 13
+Child (4): 11047 do -> comand 0 row 20 col 14
+Child (13): 11056 do -> comand 0 row 20 col 15
+Child (23): 11066 do -> comand 0 row 20 col 16
+Child (25): 11068 do -> comand 0 row 20 col 17
+Child (1): 11044 do -> comand 0 row 20 col 19
+Child (12): 11055 do -> comand 0 row 20 col 20
+Child (5): 11048 do -> comand 0 row 19 col 20
+Child (28): 11071 do -> comand 0 row 18 col 24
+Child (32): 11075 do -> comand 0 row 19 col 22
+Child (26): 11069 do -> comand 0 row 19 col 24
+Child (7): 11050 do -> comand 0 row 19 col 26
+Child (2): 11045 do -> comand 0 row 20 col 1
+Child (8): 11051 do -> comand 0 row 20 col 2
+Child (9): 11052 do -> comand 0 row 20 col 3
+Child (35): 11078 do -> comand 0 row 20 col 5
+Child (36): 11079 do -> comand 0 row 20 col 7
+Child (19): 11062 do -> comand 0 row 20 col 10
+Child (3): 11046 do -> comand 0 row 20 col 12
+Child (14): 11057 do -> comand 0 row 19 col 16
+Child (22): 11065 do -> comand 0 row 20 col 18
+Child (17): 11060 do -> comand 0 row 20 col 21
+Child (30): 11073 do -> comand 0 row 20 col 22
+Child (21): 11064 do -> comand 0 row 20 col 24
+Child (10): 11053 do -> comand 0 row 20 col 25
+Child (15): 11058 do -> comand 0 row 21 col 0
+Child (18): 11061 do -> comand 0 row 21 col 2
+Child (6): 11049 do -> comand 0 row 21 col 3
+Child (27): 11070 do -> comand 0 row 21 col 4
+Child (24): 11067 do -> comand 0 row 21 col 6
+Child (31): 11074 do -> comand 0 row 21 col 7
+Child (20): 11063 do -> comand 0 row 21 col 8
+Child (4): 11047 do -> comand 0 row 21 col 9
+Child (25): 11068 do -> comand 0 row 21 col 12
+Child (1): 11044 do -> comand 0 row 21 col 13
+Child (5): 11048 do -> comand 0 row 21 col 15
+Child (32): 11075 do -> comand 0 row 21 col 17
+Child (26): 11069 do -> comand 0 row 21 col 18
+Child (8): 11051 do -> comand 0 row 21 col 21
+Child (2): 11045 do -> comand 0 row 21 col 20
+Child (35): 11078 do -> comand 0 row 21 col 23
+Child (36): 11079 do -> comand 0 row 21 col 25
+Child (3): 11046 do -> comand 0 row 22 col 0
+Child (33): 11076 do -> comand 0 row 20 col 23
+Child (34): 11077 do -> comand 0 row 20 col 26
+Child (29): 11072 do -> comand 0 row 21 col 5
+Child (13): 11056 do -> comand 0 row 21 col 10
+Child (12): 11055 do -> comand 0 row 21 col 14
+Child (9): 11052 do -> comand 0 row 21 col 22
+Child (16): 11059 do -> comand 0 row 21 col 24
+Child (19): 11062 do -> comand 0 row 21 col 26
+Child (14): 11057 do -> comand 0 row 22 col 1
+Child (22): 11065 do -> comand 0 row 22 col 2
+Child (17): 11060 do -> comand 0 row 22 col 3
+Child (11): 11054 do -> comand 0 row 21 col 1
+Child (21): 11064 do -> comand 0 row 22 col 5
+Child (10): 11053 do -> comand 0 row 22 col 6
+Child (23): 11066 do -> comand 0 row 21 col 11
+Child (27): 11070 do -> comand 0 row 22 col 9
+Child (24): 11067 do -> comand 0 row 22 col 10
+Child (28): 11071 do -> comand 0 row 21 col 16
+Child (1): 11044 do -> comand 0 row 22 col 12
+Child (32): 11075 do -> comand 0 row 22 col 14
+Child (2): 11045 do -> comand 0 row 22 col 16
+Child (35): 11078 do -> comand 0 row 22 col 17
+Child (3): 11046 do -> comand 0 row 22 col 19
+Child (31): 11074 do -> comand 0 row 22 col 21
+Child (8): 11051 do -> comand 0 row 22 col 23
+Child (19): 11062 do -> comand 0 row 22 col 25
+Child (14): 11057 do -> comand 0 row 22 col 26
+Child (30): 11073 do -> comand 0 row 22 col 4
+Child (17): 11060 do -> comand 0 row 23 col 2
+Child (15): 11058 do -> comand 0 row 22 col 7
+Child (18): 11061 do -> comand 0 row 22 col 8
+Child (5): 11048 do -> comand 0 row 22 col 13
+Child (26): 11069 do -> comand 0 row 22 col 15
+Child (36): 11079 do -> comand 0 row 22 col 18
+Child (34): 11077 do -> comand 0 row 22 col 20
+Child (25): 11068 do -> comand 0 row 22 col 22
+Child (9): 11052 do -> comand 0 row 22 col 24
+Child (22): 11065 do -> comand 0 row 23 col 0
+Child (33): 11076 do -> comand 0 row 23 col 1
+Child (21): 11064 do -> comand 0 row 23 col 3
+Child (13): 11056 do -> comand 0 row 23 col 6
+Child (4): 11047 do -> comand 0 row 22 col 11
+Child (7): 11050 do -> comand 0 row 21 col 19
+Child (28): 11071 do -> comand 0 row 23 col 10
+Child (1): 11044 do -> comand 0 row 23 col 11
+Child (16): 11059 do -> comand 0 row 23 col 12
+Child (35): 11078 do -> comand 0 row 23 col 14
+Child (3): 11046 do -> comand 0 row 23 col 15
+Child (8): 11051 do -> comand 0 row 23 col 17
+Child (14): 11057 do -> comand 0 row 23 col 19
+Child (17): 11060 do -> comand 0 row 23 col 21
+Child (10): 11053 do -> comand 0 row 23 col 22
+Child (15): 11058 do -> comand 0 row 23 col 23
+Child (18): 11061 do -> comand 0 row 23 col 24
+Child (26): 11069 do -> comand 0 row 24 col 0
+Child (36): 11079 do -> comand 0 row 24 col 1
+Child (34): 11077 do -> comand 0 row 24 col 2
+Child (11): 11054 do -> comand 0 row 24 col 4
+Child (29): 11072 do -> comand 0 row 23 col 4
+Child (23): 11066 do -> comand 0 row 23 col 7
+Child (7): 11050 do -> comand 0 row 24 col 24
+Child (36): 11079 do -> comand 0 row 25 col 0
+Child (30): 11073 do -> comand 0 row 25 col 1
+Child (20): 11063 do -> comand 0 row 23 col 5
+Child (2): 11045 do -> comand 0 row 23 col 13
+Child (6): 11049 do -> comand 0 row 23 col 20
+Child (25): 11068 do -> comand 0 row 24 col 3
+Child (33): 11076 do -> comand 0 row 24 col 6
+Child (4): 11047 do -> comand 0 row 24 col 8
+Child (1): 11044 do -> comand 0 row 24 col 10
+Child (12): 11055 do -> comand 0 row 24 col 11
+Child (3): 11046 do -> comand 0 row 24 col 13
+Child (35): 11078 do -> comand 0 row 24 col 12
+Child (8): 11051 do -> comand 0 row 24 col 14
+Child (17): 11060 do -> comand 0 row 24 col 16
+Child (9): 11052 do -> comand 0 row 24 col 19
+Child (13): 11056 do -> comand 0 row 25 col 2
+Child (32): 11075 do -> comand 0 row 23 col 26
+Child (16): 11059 do -> comand 0 row 24 col 25
+Child (22): 11065 do -> comand 0 row 24 col 5
+Child (23): 11066 do -> comand 0 row 25 col 4
+Child (30): 11073 do -> comand 0 row 25 col 6
+Child (33): 11076 do -> comand 0 row 25 col 11
+Child (1): 11044 do -> comand 0 row 25 col 13
+Child (12): 11055 do -> comand 0 row 25 col 14
+Child (34): 11077 do -> comand 0 row 24 col 21
+Child (29): 11072 do -> comand 0 row 24 col 23
+Child (18): 11061 do -> comand 0 row 24 col 26
+Child (31): 11074 do -> comand 0 row 23 col 16
+Child (19): 11062 do -> comand 0 row 23 col 18
+Child (21): 11064 do -> comand 0 row 24 col 7
+Child (7): 11050 do -> comand 0 row 25 col 3
+Child (2): 11045 do -> comand 0 row 25 col 8
+Child (6): 11049 do -> comand 0 row 25 col 9
+Child (25): 11068 do -> comand 0 row 25 col 10
+Child (4): 11047 do -> comand 0 row 25 col 12
+Child (15): 11058 do -> comand 0 row 24 col 18
+Child (35): 11078 do -> comand 0 row 25 col 16
+Child (10): 11053 do -> comand 0 row 24 col 17
+Child (26): 11069 do -> comand 0 row 24 col 20
+Child (17): 11060 do -> comand 0 row 25 col 18
+Child (11): 11054 do -> comand 0 row 24 col 22
+Child (13): 11056 do -> comand 0 row 25 col 20
+Child (27): 11070 do -> comand 0 row 23 col 8
+Child (32): 11075 do -> comand 0 row 25 col 21
+Child (5): 11048 do -> comand 0 row 23 col 25
+Child (28): 11071 do -> comand 0 row 24 col 9
+Child (22): 11065 do -> comand 0 row 25 col 23
+Child (36): 11079 do -> comand 0 row 25 col 5
+Child (20): 11063 do -> comand 0 row 25 col 7
+Child (33): 11076 do -> comand 0 row 25 col 26
+Child (1): 11044 do -> comand 0 row 26 col 0
+Child (12): 11055 do -> comand 0 row 26 col 1
+Child (34): 11077 do -> comand 0 row 26 col 2
+Child (29): 11072 do -> comand 0 row 26 col 3
+Child (19): 11062 do -> comand 0 row 26 col 4
+Child (7): 11050 do -> comand 0 row 26 col 5
+Child (8): 11051 do -> comand 0 row 25 col 17
+Child (25): 11068 do -> comand 0 row 26 col 7
+Child (24): 11067 do -> comand 0 row 23 col 9
+Child (35): 11078 do -> comand 0 row 26 col 9
+Child (10): 11053 do -> comand 0 row 26 col 10
+Child (16): 11059 do -> comand 0 row 25 col 22
+Child (17): 11060 do -> comand 0 row 26 col 12
+Child (31): 11074 do -> comand 0 row 26 col 14
+Child (30): 11073 do -> comand 0 row 25 col 25
+Child (36): 11079 do -> comand 0 row 26 col 17
+Child (2): 11045 do -> comand 0 row 26 col 18
+Child (15): 11058 do -> comand 0 row 26 col 8
+Child (26): 11069 do -> comand 0 row 26 col 11
+Child (23): 11066 do -> comand 0 row 25 col 24
+Child (27): 11070 do -> comand 0 row 26 col 13
+Child (28): 11071 do -> comand 0 row 26 col 15
+Child (3): 11046 do -> comand 0 row 25 col 15
+Child (14): 11057 do -> comand 0 row 24 col 15
+Child (34): 11077 do -> comand 0 row 26 col 22
+Child (1): 11044 do -> comand 0 row 26 col 20
+Child (29): 11072 do -> comand 0 row 26 col 23
+Child (7): 11050 do -> comand 0 row 26 col 25
+Child (25): 11068 do -> comand 1 sum_row 0
+Child (22): 11065 do -> comand 0 row 26 col 16
+Child (32): 11075 do -> comand 1 sum_row 2
+Child (17): 11060 do -> comand 1 sum_row 5
+Child (33): 11076 do -> comand 0 row 26 col 19
+Child (4): 11047 do -> comand 1 sum_row 8
+Child (6): 11049 do -> comand 0 row 26 col 6
+Child (19): 11062 do -> comand 0 row 26 col 24
+Child (27): 11070 do -> comand 1 sum_row 13
+Child (36): 11079 do -> comand 1 sum_row 14
+Child (1): 11044 do -> comand 1 sum_row 16
+Child (18): 11061 do -> comand 1 sum_row 1
+Child (26): 11069 do -> comand 1 sum_row 20
+Child (31): 11074 do -> comand 1 sum_row 6
+Child (30): 11073 do -> comand 1 sum_row 7
+Child (11): 11054 do -> comand 1 sum_row 9
+Child (16): 11059 do -> comand 1 sum_row 11
+Child (8): 11051 do -> comand 0 row 26 col 26
+Child (13): 11056 do -> comand 1 sum_row 17
+Child (28): 11071 do -> comand 1 sum_row 23
+Child (34): 11077 do -> comand 1 sum_row 24
+Child (24): 11067 do -> comand 1 sum_row 10
+Child (33): 11076 do -> comand 1 sum_row 25
+Child (9): 11052 do -> comand 0 row 25 col 19
+Child (14): 11057 do -> comand 1 sum_row 15
+Child (15): 11058 do -> comand 1 sum_row 18
+Child (12): 11055 do -> comand 0 row 26 col 21
+Child (6): 11049 do -> comand 1 sum_row 26
+Child (5): 11048 do -> comand 1 sum_row 19
+Child (23): 11066 do -> comand 1 sum_row 21
+Child (22): 11065 do -> comand 1 sum_row 22
+Child (10): 11053 do -> comand 1 sum_row 3
+Child (20): 11063 do -> comand 1 sum_row 12
+Child (21): 11064 do -> comand 1 sum_row 4
+Process 17 are finishing.
+Process 11 are finishing.
+Process 5 are finishing.
+Process 23 are finishing.
+Process 2 are finishing.
+Process 20 are finishing.
+Process 27 are finishing.
+Process 36 are finishing.
+Process 1 are finishing.
+Process 8 are finishing.
+Process 9 are finishing.
+Process 18 are finishing.
+Process 21 are finishing.
+Process 10 are finishing.
+Process 26 are finishing.
+Process 32 are finishing.
+Process 6 are finishing.
+Process 12 are finishing.
+Process 24 are finishing.
+Process 15 are finishing.
+Process 19 are finishing.
+Process 33 are finishing.
+Process 25 are finishing.
+Process 28 are finishing.
+Process 31 are finishing.
+Process 29 are finishing.
+Process 30 are finishing.
+Process 4 are finishing.
+Process 34 are finishing.
+Process 16 are finishing.
+Process 3 are finishing.
+Process 13 are finishing.
+Process 7 are finishing.
+Process 14 are finishing.
+Process 35 are finishing.
+Process 22 are finishing.
+2
+sum = 79178
+2,2,2,2,1,3,3,1,3,1,1,3,1,1,1,1,1,3,2,3,1,3,2,2,2,3,1
+2,2,3,3,2,3,1,1,3,2,3,3,3,3,2,1,1,2,2,3,2,3,3,3,2,3,2
+1,1,2,2,1,1,3,1,3,1,2,3,3,2,1,1,1,2,1,2,3,2,2,1,1,1,1
+1,3,2,2,1,3,2,2,3,3,2,3,1,2,3,2,1,2,3,3,3,3,1,1,3,3,2
+2,2,1,1,3,3,3,1,1,1,3,3,3,2,2,3,1,2,1,2,1,2,1,3,2,1,3
+1,2,3,3,2,1,2,3,2,1,1,3,1,1,3,3,1,2,1,2,3,1,2,1,2,1,1
+3,3,2,2,1,3,2,1,3,2,3,1,1,3,1,3,1,2,1,3,2,3,1,3,3,2,2
+3,2,2,3,1,2,2,3,3,1,3,2,1,2,1,2,1,3,3,2,3,2,2,1,3,2,3
+1,3,1,3,2,3,2,2,1,2,2,3,1,3,2,2,3,2,3,3,3,3,1,2,3,1,1
+3,1,2,3,3,2,1,1,1,1,2,2,2,2,2,1,1,3,1,2,1,2,3,3,3,2,3
+2,2,3,2,1,3,3,2,1,3,1,3,2,3,1,1,1,3,1,2,1,3,3,3,1,2,3
+3,2,1,2,1,3,3,3,3,1,1,2,3,1,3,1,3,3,1,2,3,2,2,2,1,1,3
+1,3,1,2,2,2,2,1,1,3,2,1,2,1,2,2,2,2,2,1,3,1,3,1,2,3,2
+2,3,3,1,1,3,1,2,3,2,2,2,3,3,1,2,3,1,2,1,3,3,2,3,3,1,1
+2,1,3,1,1,3,1,3,3,1,2,3,3,3,1,1,3,3,2,2,3,3,2,3,2,3,2
+2,1,1,1,3,3,2,1,2,1,2,2,3,2,2,1,1,1,3,3,3,1,2,1,2,3,2
+2,2,3,3,3,1,1,2,1,1,3,1,2,3,2,2,1,2,2,3,1,2,1,2,2,3,1
+1,3,2,2,2,3,1,3,2,3,1,3,2,3,3,2,3,3,2,3,3,1,1,2,2,1,3
+1,2,3,2,3,1,2,2,1,2,1,1,1,3,3,1,1,2,2,3,2,1,1,3,1,3,2
+2,2,2,3,2,2,2,3,1,1,3,1,2,2,2,3,1,2,1,1,1,2,1,3,1,1,2
+3,1,2,1,2,1,1,1,3,3,3,3,2,2,2,1,2,1,2,1,2,3,1,2,2,2,3
+3,1,1,2,3,1,1,1,1,2,3,3,3,1,3,3,3,3,2,1,2,2,3,3,2,2,2
+3,3,2,1,1,2,3,3,2,2,1,1,3,2,3,3,3,3,1,2,3,3,2,2,1,2,3
+3,2,1,3,2,2,2,2,3,1,1,2,1,1,3,3,3,1,2,1,3,2,1,2,3,1,2
+3,2,3,1,2,2,1,2,2,3,1,3,1,3,1,2,3,1,1,3,3,2,1,3,1,2,3
+1,1,3,2,2,2,2,1,1,1,2,1,2,2,3,3,1,2,2,2,3,2,2,2,3,2,1
+2,1,3,3,1,2,1,3,2,1,1,2,3,1,1,2,3,1,1,1,3,3,1,1,2,3,2
+2,3,3,3,1,1,3,3,1,3,2,1,2,1,3,2,2,1,1,1,2,1,3,1,3,1,3
+2,2,2,2,3,1,1,3,1,3,2,1,3,2,1,2,1,3,2,1,2,1,2,3,1,1,2
+1,2,3,2,3,2,3,3,3,1,3,2,1,1,3,3,3,1,3,3,1,3,3,2,2,3,3
+3,3,2,2,3,2,3,1,2,3,2,3,1,2,2,2,1,1,1,1,1,2,2,3,3,3,1
+1,3,3,3,1,1,1,1,2,1,3,2,3,3,1,2,3,2,1,2,1,1,2,2,1,1,1
+2,1,3,3,2,2,2,2,3,3,3,2,1,3,3,2,1,2,1,2,1,1,1,2,1,3,2
+2,3,3,2,3,2,1,2,1,2,2,2,2,1,2,1,2,2,1,3,1,1,3,3,2,3,2
+1,1,2,3,1,3,2,1,1,3,1,2,1,2,3,3,2,2,3,1,2,3,2,2,1,2,2
+1,2,2,2,3,2,3,1,3,2,2,1,3,2,3,3,1,3,1,3,1,1,1,1,2,3,3
+2,2,3,2,1,2,1,2,1,1,1,1,2,3,2,2,2,3,1,1,3,3,2,2,2,3,3
+3,3,1,1,3,1,1,3,3,3,1,3,3,2,1,1,2,3,3,1,2,2,1,1,2,2,3
+1,1,2,1,3,3,1,2,2,3,1,1,2,2,2,1,3,2,3,1,3,1,2,2,2,2,3
+3,3,2,1,2,2,2,3,3,2,2,1,3,2,1,1,1,1,1,2,1,1,1,3,2,2,2
+1,3,2,3,3,3,3,3,2,1,1,3,2,2,3,3,1,1,3,2,3,2,1,1,3,2,2
+3,1,2,1,1,3,2,1,2,3,2,2,3,2,3,2,1,1,1,1,2,3,2,2,2,3,3
+2,2,3,2,3,2,2,3,1,3,1,3,2,2,2,2,2,1,1,1,1,1,2,3,2,1,3
+1,1,1,2,1,1,3,3,2,2,3,3,2,2,3,3,1,3,1,2,1,3,1,3,2,1,1
+1,2,3,1,2,2,1,3,1,2,3,3,1,3,1,2,2,3,3,3,3,2,3,2,2,3,1
+2,1,3,2,1,2,1,3,3,2,1,3,2,1,1,1,3,2,2,3,2,1,1,3,2,3,2
+3,3,1,1,1,1,3,1,3,2,3,2,2,2,1,1,1,1,1,2,2,2,1,3,3,1,2
+3,1,3,1,3,1,2,2,2,1,2,3,3,1,3,3,3,1,1,3,1,2,3,1,2,1,2
+3,3,3,2,1,1,1,3,1,1,1,3,3,3,2,2,2,3,3,1,2,3,3,1,3,1,3
+2,2,1,3,1,3,3,2,2,3,2,3,2,2,3,3,1,2,3,3,2,1,3,1,2,2,3
+2,3,1,1,2,2,3,2,1,2,1,2,3,2,1,1,3,2,3,3,3,2,2,1,2,2,3
+2,3,2,1,1,1,1,2,2,2,1,2,1,1,1,2,2,3,1,3,2,2,1,2,2,3,2
+1,3,2,1,3,2,2,1,2,1,3,3,1,2,2,2,2,3,3,3,2,2,1,3,3,2,2
+1,2,1,1,2,1,1,3,2,3,1,2,1,3,2,2,3,3,2,1,3,1,3,1,3,3,2
+Thread (0): do mul -> row=0, col=0, val=95
+Thread (0): do mul -> row=0, col=1, val=114
+Thread (0): do mul -> row=0, col=2, val=114
+Thread (0): do mul -> row=0, col=3, val=91
+Thread (0): do mul -> row=0, col=4, val=105
+Thread (0): do mul -> row=0, col=5, val=93
+Thread (0): do mul -> row=0, col=6, val=98
+Thread (0): do mul -> row=0, col=7, val=108
+Thread (0): do mul -> row=0, col=8, val=99
+Thread (0): do mul -> row=0, col=9, val=109
+Thread (0): do mul -> row=0, col=10, val=100
+Thread (0): do mul -> row=0, col=11, val=110
+Thread (0): do mul -> row=0, col=12, val=100
+Thread (0): do mul -> row=0, col=13, val=102
+Thread (0): do mul -> row=0, col=14, val=102
+Thread (0): do mul -> row=0, col=15, val=98
+Thread (0): do mul -> row=0, col=16, val=95
+Thread (0): do mul -> row=0, col=17, val=108
+Thread (0): do mul -> row=0, col=18, val=98
+Thread (0): do mul -> row=0, col=19, val=107
+Thread (0): do mul -> row=0, col=20, val=95
+Thread (0): do mul -> row=0, col=21, val=87
+Thread (0): do mul -> row=0, col=22, val=99
+Thread (0): do mul -> row=0, col=23, val=104
+Thread (0): do mul -> row=0, col=24, val=110
+Thread (0): do mul -> row=0, col=25, val=111
+Thread (0): do mul -> row=0, col=26, val=116
+Thread (1): do mul -> row=1, col=0, val=122
+Thread (1): do mul -> row=1, col=1, val=143
+Thread (1): do mul -> row=1, col=2, val=134
+Thread (1): do mul -> row=1, col=3, val=112
+Thread (1): do mul -> row=1, col=4, val=130
+Thread (1): do mul -> row=1, col=5, val=116
+Thread (1): do mul -> row=1, col=6, val=126
+Thread (1): do mul -> row=1, col=7, val=136
+Thread (1): do mul -> row=1, col=8, val=129
+Thread (1): do mul -> row=1, col=9, val=133
+Thread (1): do mul -> row=1, col=10, val=118
+Thread (1): do mul -> row=1, col=11, val=137
+Thread (1): do mul -> row=1, col=12, val=130
+Thread (1): do mul -> row=1, col=13, val=128
+Thread (1): do mul -> row=1, col=14, val=127
+Thread (1): do mul -> row=1, col=15, val=124
+Thread (1): do mul -> row=1, col=16, val=117
+Thread (1): do mul -> row=1, col=17, val=127
+Thread (1): do mul -> row=1, col=18, val=123
+Thread (1): do mul -> row=1, col=19, val=126
+Thread (1): do mul -> row=1, col=20, val=119
+Thread (1): do mul -> row=1, col=21, val=111
+Thread (1): do mul -> row=1, col=22, val=118
+Thread (1): do mul -> row=1, col=23, val=121
+Thread (2): do mul -> row=2, col=0, val=88
+Thread (1): do mul -> row=1, col=24, val=137
+Thread (3): do mul -> row=3, col=0, val=116
+Thread (4): do mul -> row=4, col=0, val=102
+Thread (5): do mul -> row=5, col=0, val=93
+Thread (6): do mul -> row=6, col=0, val=111
+Thread (7): do mul -> row=7, col=0, val=109
+Thread (8): do mul -> row=8, col=0, val=114
+Thread (9): do mul -> row=9, col=0, val=100
+Thread (10): do mul -> row=10, col=0, val=102
+Thread (11): do mul -> row=11, col=0, val=107
+Thread (12): do mul -> row=12, col=0, val=97
+Thread (13): do mul -> row=13, col=0, val=108
+Thread (14): do mul -> row=14, col=0, val=108
+Thread (15): do mul -> row=15, col=0, val=99
+Thread (16): do mul -> row=16, col=0, val=100
+Thread (17): do mul -> row=17, col=0, val=110
+Thread (18): do mul -> row=18, col=0, val=92
+Thread (19): do mul -> row=19, col=0, val=95
+Thread (20): do mul -> row=20, col=0, val=97
+Thread (21): do mul -> row=21, col=0, val=110
+Thread (22): do mul -> row=22, col=0, val=114
+Thread (23): do mul -> row=23, col=0, val=102
+Thread (24): do mul -> row=24, col=0, val=98
+Thread (25): do mul -> row=25, col=0, val=102
+Thread (26): do mul -> row=26, col=0, val=94
+Thread (2): do mul -> row=2, col=1, val=100
+Thread (1): do mul -> row=1, col=25, val=135
+Thread (3): do mul -> row=3, col=1, val=126
+Thread (4): do mul -> row=4, col=1, val=121
+Thread (5): do mul -> row=5, col=1, val=101
+Thread (6): do mul -> row=6, col=1, val=133
+Thread (7): do mul -> row=7, col=1, val=126
+Thread (8): do mul -> row=8, col=1, val=123
+Thread (9): do mul -> row=9, col=1, val=124
+Thread (10): do mul -> row=10, col=1, val=125
+Thread (11): do mul -> row=11, col=1, val=116
+Thread (12): do mul -> row=12, col=1, val=107
+Thread (13): do mul -> row=13, col=1, val=122
+Thread (14): do mul -> row=14, col=1, val=128
+Thread (15): do mul -> row=15, col=1, val=112
+Thread (16): do mul -> row=16, col=1, val=123
+Thread (17): do mul -> row=17, col=1, val=121
+Thread (18): do mul -> row=18, col=1, val=112
+Thread (19): do mul -> row=19, col=1, val=111
+Thread (20): do mul -> row=20, col=1, val=115
+Thread (21): do mul -> row=21, col=1, val=125
+Thread (22): do mul -> row=22, col=1, val=128
+Thread (23): do mul -> row=23, col=1, val=111
+Thread (24): do mul -> row=24, col=1, val=118
+Thread (25): do mul -> row=25, col=1, val=113
+Thread (26): do mul -> row=26, col=1, val=107
+Thread (2): do mul -> row=2, col=2, val=99
+Thread (1): do mul -> row=1, col=26, val=146
+Thread (3): do mul -> row=3, col=2, val=135
+Thread (4): do mul -> row=4, col=2, val=115
+Thread (5): do mul -> row=5, col=2, val=110
+Thread (6): do mul -> row=6, col=2, val=125
+Thread (7): do mul -> row=7, col=2, val=128
+Thread (8): do mul -> row=8, col=2, val=128
+Thread (9): do mul -> row=9, col=2, val=112
+Thread (10): do mul -> row=10, col=2, val=123
+Thread (11): do mul -> row=11, col=2, val=121
+Thread (12): do mul -> row=12, col=2, val=110
+Thread (13): do mul -> row=13, col=2, val=125
+Thread (14): do mul -> row=14, col=2, val=129
+Thread (15): do mul -> row=15, col=2, val=112
+Thread (16): do mul -> row=16, col=2, val=113
+Thread (17): do mul -> row=17, col=2, val=130
+Thread (18): do mul -> row=18, col=2, val=109
+Thread (19): do mul -> row=19, col=2, val=107
+Thread (20): do mul -> row=20, col=2, val=113
+Thread (21): do mul -> row=21, col=2, val=122
+Thread (22): do mul -> row=22, col=2, val=133
+Thread (23): do mul -> row=23, col=2, val=118
+Thread (24): do mul -> row=24, col=2, val=119
+Thread (25): do mul -> row=25, col=2, val=115
+Thread (26): do mul -> row=26, col=2, val=111
+Thread (2): do mul -> row=2, col=3, val=78
+Thread (3): do mul -> row=3, col=3, val=104
+Thread (4): do mul -> row=4, col=3, val=93
+Thread (5): do mul -> row=5, col=3, val=88
+Thread (6): do mul -> row=6, col=3, val=103
+Thread (7): do mul -> row=7, col=3, val=105
+Thread (8): do mul -> row=8, col=3, val=105
+Thread (9): do mul -> row=9, col=3, val=95
+Thread (10): do mul -> row=10, col=3, val=104
+Thread (11): do mul -> row=11, col=3, val=101
+Thread (12): do mul -> row=12, col=3, val=89
+Thread (13): do mul -> row=13, col=3, val=106
+Thread (14): do mul -> row=14, col=3, val=107
+Thread (15): do mul -> row=15, col=3, val=91
+Thread (16): do mul -> row=16, col=3, val=94
+Thread (17): do mul -> row=17, col=3, val=107
+Thread (18): do mul -> row=18, col=3, val=89
+Thread (19): do mul -> row=19, col=3, val=91
+Thread (20): do mul -> row=20, col=3, val=91
+Thread (21): do mul -> row=21, col=3, val=99
+Thread (22): do mul -> row=22, col=3, val=109
+Thread (23): do mul -> row=23, col=3, val=97
+Thread (24): do mul -> row=24, col=3, val=101
+Thread (25): do mul -> row=25, col=3, val=89
+Thread (26): do mul -> row=26, col=3, val=90
+Thread (2): do mul -> row=2, col=4, val=99
+Thread (3): do mul -> row=3, col=4, val=123
+Thread (4): do mul -> row=4, col=4, val=109
+Thread (5): do mul -> row=5, col=4, val=103
+Thread (6): do mul -> row=6, col=4, val=120
+Thread (7): do mul -> row=7, col=4, val=120
+Thread (8): do mul -> row=8, col=4, val=115
+Thread (9): do mul -> row=9, col=4, val=102
+Thread (10): do mul -> row=10, col=4, val=114
+Thread (11): do mul -> row=11, col=4, val=110
+Thread (12): do mul -> row=12, col=4, val=101
+Thread (13): do mul -> row=13, col=4, val=116
+Thread (14): do mul -> row=14, col=4, val=122
+Thread (15): do mul -> row=15, col=4, val=101
+Thread (16): do mul -> row=16, col=4, val=106
+Thread (17): do mul -> row=17, col=4, val=119
+Thread (18): do mul -> row=18, col=4, val=101
+Thread (19): do mul -> row=19, col=4, val=102
+Thread (20): do mul -> row=20, col=4, val=103
+Thread (21): do mul -> row=21, col=4, val=109
+Thread (22): do mul -> row=22, col=4, val=119
+Thread (23): do mul -> row=23, col=4, val=105
+Thread (24): do mul -> row=24, col=4, val=111
+Thread (25): do mul -> row=25, col=4, val=104
+Thread (26): do mul -> row=26, col=4, val=103
+Thread (2): do mul -> row=2, col=5, val=84
+Thread (3): do mul -> row=3, col=5, val=109
+Thread (4): do mul -> row=4, col=5, val=94
+Thread (5): do mul -> row=5, col=5, val=94
+Thread (6): do mul -> row=6, col=5, val=97
+Thread (7): do mul -> row=7, col=5, val=103
+Thread (8): do mul -> row=8, col=5, val=103
+Thread (9): do mul -> row=9, col=5, val=95
+Thread (10): do mul -> row=10, col=5, val=107
+Thread (11): do mul -> row=11, col=5, val=102
+Thread (12): do mul -> row=12, col=5, val=89
+Thread (13): do mul -> row=13, col=5, val=102
+Thread (14): do mul -> row=14, col=5, val=111
+Thread (15): do mul -> row=15, col=5, val=91
+Thread (16): do mul -> row=16, col=5, val=93
+Thread (17): do mul -> row=17, col=5, val=111
+Thread (18): do mul -> row=18, col=5, val=93
+Thread (19): do mul -> row=19, col=5, val=90
+Thread (20): do mul -> row=20, col=5, val=91
+Thread (21): do mul -> row=21, col=5, val=103
+Thread (22): do mul -> row=22, col=5, val=108
+Thread (23): do mul -> row=23, col=5, val=93
+Thread (24): do mul -> row=24, col=5, val=97
+Thread (25): do mul -> row=25, col=5, val=93
+Thread (26): do mul -> row=26, col=5, val=89
+Thread (2): do mul -> row=2, col=6, val=88
+Thread (3): do mul -> row=3, col=6, val=109
+Thread (4): do mul -> row=4, col=6, val=95
+Thread (5): do mul -> row=5, col=6, val=96
+Thread (6): do mul -> row=6, col=6, val=112
+Thread (7): do mul -> row=7, col=6, val=110
+Thread (8): do mul -> row=8, col=6, val=108
+Thread (9): do mul -> row=9, col=6, val=104
+Thread (10): do mul -> row=10, col=6, val=108
+Thread (11): do mul -> row=11, col=6, val=111
+Thread (12): do mul -> row=12, col=6, val=91
+Thread (13): do mul -> row=13, col=6, val=114
+Thread (14): do mul -> row=14, col=6, val=121
+Thread (15): do mul -> row=15, col=6, val=97
+Thread (16): do mul -> row=16, col=6, val=103
+Thread (17): do mul -> row=17, col=6, val=115
+Thread (18): do mul -> row=18, col=6, val=99
+Thread (19): do mul -> row=19, col=6, val=95
+Thread (20): do mul -> row=20, col=6, val=97
+Thread (21): do mul -> row=21, col=6, val=108
+Thread (22): do mul -> row=22, col=6, val=117
+Thread (23): do mul -> row=23, col=6, val=104
+Thread (24): do mul -> row=24, col=6, val=112
+Thread (25): do mul -> row=25, col=6, val=99
+Thread (26): do mul -> row=26, col=6, val=101
+Thread (2): do mul -> row=2, col=7, val=98
+Thread (3): do mul -> row=3, col=7, val=127
+Thread (4): do mul -> row=4, col=7, val=120
+Thread (5): do mul -> row=5, col=7, val=100
+Thread (6): do mul -> row=6, col=7, val=128
+Thread (7): do mul -> row=7, col=7, val=128
+Thread (8): do mul -> row=8, col=7, val=127
+Thread (9): do mul -> row=9, col=7, val=115
+Thread (10): do mul -> row=10, col=7, val=126
+Thread (11): do mul -> row=11, col=7, val=121
+Thread (12): do mul -> row=12, col=7, val=109
+Thread (13): do mul -> row=13, col=7, val=132
+Thread (14): do mul -> row=14, col=7, val=134
+Thread (15): do mul -> row=15, col=7, val=107
+Thread (16): do mul -> row=16, col=7, val=112
+Thread (17): do mul -> row=17, col=7, val=130
+Thread (18): do mul -> row=18, col=7, val=103
+Thread (19): do mul -> row=19, col=7, val=109
+Thread (20): do mul -> row=20, col=7, val=117
+Thread (21): do mul -> row=21, col=7, val=128
+Thread (22): do mul -> row=22, col=7, val=136
+Thread (23): do mul -> row=23, col=7, val=113
+Thread (24): do mul -> row=24, col=7, val=122
+Thread (25): do mul -> row=25, col=7, val=111
+Thread (26): do mul -> row=26, col=7, val=109
+Thread (2): do mul -> row=2, col=8, val=91
+Thread (3): do mul -> row=3, col=8, val=118
+Thread (4): do mul -> row=4, col=8, val=101
+Thread (5): do mul -> row=5, col=8, val=93
+Thread (6): do mul -> row=6, col=8, val=108
+Thread (7): do mul -> row=7, col=8, val=113
+Thread (8): do mul -> row=8, col=8, val=111
+Thread (9): do mul -> row=9, col=8, val=102
+Thread (10): do mul -> row=10, col=8, val=103
+Thread (11): do mul -> row=11, col=8, val=106
+Thread (12): do mul -> row=12, col=8, val=95
+Thread (13): do mul -> row=13, col=8, val=112
+Thread (14): do mul -> row=14, col=8, val=120
+Thread (15): do mul -> row=15, col=8, val=108
+Thread (16): do mul -> row=16, col=8, val=103
+Thread (17): do mul -> row=17, col=8, val=116
+Thread (18): do mul -> row=18, col=8, val=96
+Thread (19): do mul -> row=19, col=8, val=90
+Thread (20): do mul -> row=20, col=8, val=102
+Thread (21): do mul -> row=21, col=8, val=107
+Thread (22): do mul -> row=22, col=8, val=108
+Thread (23): do mul -> row=23, col=8, val=99
+Thread (24): do mul -> row=24, col=8, val=104
+Thread (25): do mul -> row=25, col=8, val=101
+Thread (26): do mul -> row=26, col=8, val=98
+Thread (2): do mul -> row=2, col=9, val=94
+Thread (3): do mul -> row=3, col=9, val=127
+Thread (4): do mul -> row=4, col=9, val=119
+Thread (5): do mul -> row=5, col=9, val=109
+Thread (6): do mul -> row=6, col=9, val=122
+Thread (7): do mul -> row=7, col=9, val=129
+Thread (8): do mul -> row=8, col=9, val=124
+Thread (9): do mul -> row=9, col=9, val=116
+Thread (10): do mul -> row=10, col=9, val=119
+Thread (11): do mul -> row=11, col=9, val=127
+Thread (12): do mul -> row=12, col=9, val=107
+Thread (13): do mul -> row=13, col=9, val=119
+Thread (14): do mul -> row=14, col=9, val=124
+Thread (15): do mul -> row=15, col=9, val=107
+Thread (16): do mul -> row=16, col=9, val=108
+Thread (17): do mul -> row=17, col=9, val=130
+Thread (18): do mul -> row=18, col=9, val=100
+Thread (19): do mul -> row=19, col=9, val=111
+Thread (20): do mul -> row=20, col=9, val=108
+Thread (21): do mul -> row=21, col=9, val=126
+Thread (22): do mul -> row=22, col=9, val=130
+Thread (23): do mul -> row=23, col=9, val=119
+Thread (24): do mul -> row=24, col=9, val=113
+Thread (25): do mul -> row=25, col=9, val=106
+Thread (26): do mul -> row=26, col=9, val=105
+Thread (2): do mul -> row=2, col=10, val=84
+Thread (3): do mul -> row=3, col=10, val=109
+Thread (4): do mul -> row=4, col=10, val=95
+Thread (5): do mul -> row=5, col=10, val=92
+Thread (6): do mul -> row=6, col=10, val=103
+Thread (7): do mul -> row=7, col=10, val=104
+Thread (8): do mul -> row=8, col=10, val=105
+Thread (9): do mul -> row=9, col=10, val=100
+Thread (10): do mul -> row=10, col=10, val=103
+Thread (11): do mul -> row=11, col=10, val=108
+Thread (12): do mul -> row=12, col=10, val=95
+Thread (13): do mul -> row=13, col=10, val=102
+Thread (14): do mul -> row=14, col=10, val=113
+Thread (15): do mul -> row=15, col=10, val=99
+Thread (16): do mul -> row=16, col=10, val=99
+Thread (17): do mul -> row=17, col=10, val=112
+Thread (18): do mul -> row=18, col=10, val=97
+Thread (19): do mul -> row=19, col=10, val=87
+Thread (20): do mul -> row=20, col=10, val=90
+Thread (21): do mul -> row=21, col=10, val=104
+Thread (22): do mul -> row=22, col=10, val=113
+Thread (23): do mul -> row=23, col=10, val=96
+Thread (24): do mul -> row=24, col=10, val=102
+Thread (25): do mul -> row=25, col=10, val=96
+Thread (26): do mul -> row=26, col=10, val=95
+Thread (2): do mul -> row=2, col=11, val=97
+Thread (3): do mul -> row=3, col=11, val=130
+Thread (4): do mul -> row=4, col=11, val=112
+Thread (5): do mul -> row=5, col=11, val=107
+Thread (6): do mul -> row=6, col=11, val=124
+Thread (7): do mul -> row=7, col=11, val=130
+Thread (8): do mul -> row=8, col=11, val=131
+Thread (9): do mul -> row=9, col=11, val=117
+Thread (10): do mul -> row=10, col=11, val=120
+Thread (11): do mul -> row=11, col=11, val=118
+Thread (12): do mul -> row=12, col=11, val=112
+Thread (13): do mul -> row=13, col=11, val=122
+Thread (14): do mul -> row=14, col=11, val=133
+Thread (15): do mul -> row=15, col=11, val=111
+Thread (16): do mul -> row=16, col=11, val=118
+Thread (17): do mul -> row=17, col=11, val=128
+Thread (18): do mul -> row=18, col=11, val=111
+Thread (19): do mul -> row=19, col=11, val=109
+Thread (20): do mul -> row=20, col=11, val=109
+Thread (21): do mul -> row=21, col=11, val=127
+Thread (22): do mul -> row=22, col=11, val=130
+Thread (23): do mul -> row=23, col=11, val=115
+Thread (24): do mul -> row=24, col=11, val=116
+Thread (25): do mul -> row=25, col=11, val=118
+Thread (26): do mul -> row=26, col=11, val=111
+Thread (2): do mul -> row=2, col=12, val=96
+Thread (3): do mul -> row=3, col=12, val=121
+Thread (4): do mul -> row=4, col=12, val=112
+Thread (5): do mul -> row=5, col=12, val=98
+Thread (6): do mul -> row=6, col=12, val=117
+Thread (7): do mul -> row=7, col=12, val=112
+Thread (8): do mul -> row=8, col=12, val=119
+Thread (10): do mul -> row=10, col=12, val=108
+Thread (9): do mul -> row=9, col=12, val=104
+Thread (11): do mul -> row=11, col=12, val=115
+Thread (12): do mul -> row=12, col=12, val=102
+Thread (13): do mul -> row=13, col=12, val=121
+Thread (14): do mul -> row=14, col=12, val=120
+Thread (15): do mul -> row=15, col=12, val=106
+Thread (16): do mul -> row=16, col=12, val=105
+Thread (17): do mul -> row=17, col=12, val=120
+Thread (18): do mul -> row=18, col=12, val=101
+Thread (19): do mul -> row=19, col=12, val=100
+Thread (20): do mul -> row=20, col=12, val=111
+Thread (21): do mul -> row=21, col=12, val=121
+Thread (22): do mul -> row=22, col=12, val=124
+Thread (23): do mul -> row=23, col=12, val=110
+Thread (24): do mul -> row=24, col=12, val=112
+Thread (25): do mul -> row=25, col=12, val=104
+Thread (26): do mul -> row=26, col=12, val=97
+Thread (2): do mul -> row=2, col=13, val=87
+Thread (3): do mul -> row=3, col=13, val=120
+Thread (4): do mul -> row=4, col=13, val=110
+Thread (5): do mul -> row=5, col=13, val=94
+Thread (6): do mul -> row=6, col=13, val=114
+Thread (7): do mul -> row=7, col=13, val=112
+Thread (8): do mul -> row=8, col=13, val=116
+Thread (10): do mul -> row=10, col=13, val=117
+Thread (9): do mul -> row=9, col=13, val=109
+Thread (11): do mul -> row=11, col=13, val=113
+Thread (12): do mul -> row=12, col=13, val=101
+Thread (13): do mul -> row=13, col=13, val=111
+Thread (14): do mul -> row=14, col=13, val=120
+Thread (15): do mul -> row=15, col=13, val=100
+Thread (16): do mul -> row=16, col=13, val=103
+Thread (17): do mul -> row=17, col=13, val=124
+Thread (18): do mul -> row=18, col=13, val=100
+Thread (19): do mul -> row=19, col=13, val=100
+Thread (20): do mul -> row=20, col=13, val=105
+Thread (21): do mul -> row=21, col=13, val=116
+Thread (22): do mul -> row=22, col=13, val=121
+Thread (23): do mul -> row=23, col=13, val=102
+Thread (24): do mul -> row=24, col=13, val=111
+Thread (25): do mul -> row=25, col=13, val=98
+Thread (26): do mul -> row=26, col=13, val=98
+Thread (2): do mul -> row=2, col=14, val=93
+Thread (3): do mul -> row=3, col=14, val=122
+Thread (4): do mul -> row=4, col=14, val=100
+Thread (5): do mul -> row=5, col=14, val=104
+Thread (6): do mul -> row=6, col=14, val=114
+Thread (7): do mul -> row=7, col=14, val=119
+Thread (8): do mul -> row=8, col=14, val=115
+Thread (10): do mul -> row=10, col=14, val=116
+Thread (9): do mul -> row=9, col=14, val=104
+Thread (11): do mul -> row=11, col=14, val=121
+Thread (12): do mul -> row=12, col=14, val=100
+Thread (13): do mul -> row=13, col=14, val=120
+Thread (14): do mul -> row=14, col=14, val=127
+Thread (15): do mul -> row=15, col=14, val=102
+Thread (16): do mul -> row=16, col=14, val=100
+Thread (17): do mul -> row=17, col=14, val=124
+Thread (18): do mul -> row=18, col=14, val=100
+Thread (19): do mul -> row=19, col=14, val=98
+Thread (20): do mul -> row=20, col=14, val=107
+Thread (21): do mul -> row=21, col=14, val=112
+Thread (22): do mul -> row=22, col=14, val=128
+Thread (23): do mul -> row=23, col=14, val=113
+Thread (24): do mul -> row=24, col=14, val=118
+Thread (25): do mul -> row=25, col=14, val=103
+Thread (26): do mul -> row=26, col=14, val=109
+Thread (2): do mul -> row=2, col=15, val=89
+Thread (3): do mul -> row=3, col=15, val=119
+Thread (4): do mul -> row=4, col=15, val=96
+Thread (5): do mul -> row=5, col=15, val=102
+Thread (6): do mul -> row=6, col=15, val=113
+Thread (7): do mul -> row=7, col=15, val=118
+Thread (8): do mul -> row=8, col=15, val=114
+Thread (10): do mul -> row=10, col=15, val=111
+Thread (9): do mul -> row=9, col=15, val=104
+Thread (11): do mul -> row=11, col=15, val=114
+Thread (12): do mul -> row=12, col=15, val=101
+Thread (13): do mul -> row=13, col=15, val=119
+Thread (14): do mul -> row=14, col=15, val=124
+Thread (15): do mul -> row=15, col=15, val=98
+Thread (16): do mul -> row=16, col=15, val=102
+Thread (17): do mul -> row=17, col=15, val=123
+Thread (18): do mul -> row=18, col=15, val=100
+Thread (19): do mul -> row=19, col=15, val=96
+Thread (20): do mul -> row=20, col=15, val=103
+Thread (21): do mul -> row=21, col=15, val=110
+Thread (22): do mul -> row=22, col=15, val=124
+Thread (23): do mul -> row=23, col=15, val=109
+Thread (24): do mul -> row=24, col=15, val=114
+Thread (25): do mul -> row=25, col=15, val=102
+Thread (26): do mul -> row=26, col=15, val=106
+Thread (2): do mul -> row=2, col=16, val=84
+Thread (3): do mul -> row=3, col=16, val=113
+Thread (4): do mul -> row=4, col=16, val=103
+Thread (5): do mul -> row=5, col=16, val=94
+Thread (6): do mul -> row=6, col=16, val=105
+Thread (7): do mul -> row=7, col=16, val=112
+Thread (8): do mul -> row=8, col=16, val=108
+Thread (10): do mul -> row=10, col=16, val=107
+Thread (9): do mul -> row=9, col=16, val=102
+Thread (11): do mul -> row=11, col=16, val=101
+Thread (12): do mul -> row=12, col=16, val=93
+Thread (13): do mul -> row=13, col=16, val=106
+Thread (14): do mul -> row=14, col=16, val=115
+Thread (15): do mul -> row=15, col=16, val=97
+Thread (16): do mul -> row=16, col=16, val=98
+Thread (17): do mul -> row=17, col=16, val=112
+Thread (18): do mul -> row=18, col=16, val=98
+Thread (19): do mul -> row=19, col=16, val=93
+Thread (20): do mul -> row=20, col=16, val=104
+Thread (21): do mul -> row=21, col=16, val=111
+Thread (22): do mul -> row=22, col=16, val=110
+Thread (23): do mul -> row=23, col=16, val=100
+Thread (24): do mul -> row=24, col=16, val=109
+Thread (25): do mul -> row=25, col=16, val=98
+Thread (26): do mul -> row=26, col=16, val=95
+Thread (2): do mul -> row=2, col=17, val=88
+Thread (3): do mul -> row=3, col=17, val=126
+Thread (4): do mul -> row=4, col=17, val=107
+Thread (5): do mul -> row=5, col=17, val=92
+Thread (6): do mul -> row=6, col=17, val=118
+Thread (7): do mul -> row=7, col=17, val=120
+Thread (8): do mul -> row=8, col=17, val=118
+Thread (10): do mul -> row=10, col=17, val=115
+Thread (9): do mul -> row=9, col=17, val=107
+Thread (11): do mul -> row=11, col=17, val=113
+Thread (12): do mul -> row=12, col=17, val=106
+Thread (13): do mul -> row=13, col=17, val=117
+Thread (14): do mul -> row=14, col=17, val=124
+Thread (15): do mul -> row=15, col=17, val=100
+Thread (16): do mul -> row=16, col=17, val=101
+Thread (17): do mul -> row=17, col=17, val=121
+Thread (18): do mul -> row=18, col=17, val=97
+Thread (19): do mul -> row=19, col=17, val=96
+Thread (20): do mul -> row=20, col=17, val=111
+Thread (21): do mul -> row=21, col=17, val=116
+Thread (22): do mul -> row=22, col=17, val=121
+Thread (23): do mul -> row=23, col=17, val=106
+Thread (24): do mul -> row=24, col=17, val=110
+Thread (25): do mul -> row=25, col=17, val=97
+Thread (26): do mul -> row=26, col=17, val=100
+Thread (2): do mul -> row=2, col=18, val=84
+Thread (3): do mul -> row=3, col=18, val=110
+Thread (4): do mul -> row=4, col=18, val=97
+Thread (5): do mul -> row=5, col=18, val=89
+Thread (6): do mul -> row=6, col=18, val=105
+Thread (7): do mul -> row=7, col=18, val=110
+Thread (8): do mul -> row=8, col=18, val=105
+Thread (10): do mul -> row=10, col=18, val=114
+Thread (9): do mul -> row=9, col=18, val=102
+Thread (11): do mul -> row=11, col=18, val=98
+Thread (12): do mul -> row=12, col=18, val=89
+Thread (13): do mul -> row=13, col=18, val=107
+Thread (14): do mul -> row=14, col=18, val=121
+Thread (15): do mul -> row=15, col=18, val=89
+Thread (16): do mul -> row=16, col=18, val=101
+Thread (17): do mul -> row=17, col=18, val=108
+Thread (18): do mul -> row=18, col=18, val=96
+Thread (19): do mul -> row=19, col=18, val=94
+Thread (20): do mul -> row=20, col=18, val=98
+Thread (21): do mul -> row=21, col=18, val=106
+Thread (22): do mul -> row=22, col=18, val=109
+Thread (23): do mul -> row=23, col=18, val=87
+Thread (24): do mul -> row=24, col=18, val=103
+Thread (25): do mul -> row=25, col=18, val=93
+Thread (26): do mul -> row=26, col=18, val=92
+Thread (2): do mul -> row=2, col=19, val=93
+Thread (3): do mul -> row=3, col=19, val=117
+Thread (4): do mul -> row=4, col=19, val=99
+Thread (5): do mul -> row=5, col=19, val=95
+Thread (6): do mul -> row=6, col=19, val=111
+Thread (7): do mul -> row=7, col=19, val=115
+Thread (8): do mul -> row=8, col=19, val=111
+Thread (10): do mul -> row=10, col=19, val=110
+Thread (9): do mul -> row=9, col=19, val=105
+Thread (11): do mul -> row=11, col=19, val=109
+Thread (12): do mul -> row=12, col=19, val=100
+Thread (13): do mul -> row=13, col=19, val=115
+Thread (14): do mul -> row=14, col=19, val=125
+Thread (15): do mul -> row=15, col=19, val=106
+Thread (16): do mul -> row=16, col=19, val=101
+Thread (17): do mul -> row=17, col=19, val=114
+Thread (18): do mul -> row=18, col=19, val=102
+Thread (19): do mul -> row=19, col=19, val=89
+Thread (20): do mul -> row=20, col=19, val=98
+Thread (21): do mul -> row=21, col=19, val=109
+Thread (22): do mul -> row=22, col=19, val=115
+Thread (23): do mul -> row=23, col=19, val=101
+Thread (24): do mul -> row=24, col=19, val=105
+Thread (25): do mul -> row=25, col=19, val=106
+Thread (26): do mul -> row=26, col=19, val=97
+Thread (2): do mul -> row=2, col=20, val=80
+Thread (3): do mul -> row=3, col=20, val=113
+Thread (4): do mul -> row=4, col=20, val=100
+Thread (5): do mul -> row=5, col=20, val=86
+Thread (7): do mul -> row=7, col=20, val=108
+Thread (6): do mul -> row=6, col=20, val=107
+Thread (8): do mul -> row=8, col=20, val=108
+Thread (10): do mul -> row=10, col=20, val=112
+Thread (9): do mul -> row=9, col=20, val=103
+Thread (11): do mul -> row=11, col=20, val=101
+Thread (12): do mul -> row=12, col=20, val=91
+Thread (13): do mul -> row=13, col=20, val=103
+Thread (14): do mul -> row=14, col=20, val=113
+Thread (15): do mul -> row=15, col=20, val=91
+Thread (16): do mul -> row=16, col=20, val=96
+Thread (17): do mul -> row=17, col=20, val=115
+Thread (19): do mul -> row=19, col=20, val=90
+Thread (18): do mul -> row=18, col=20, val=96
+Thread (20): do mul -> row=20, col=20, val=101
+Thread (21): do mul -> row=21, col=20, val=108
+Thread (22): do mul -> row=22, col=20, val=110
+Thread (23): do mul -> row=23, col=20, val=92
+Thread (24): do mul -> row=24, col=20, val=106
+Thread (25): do mul -> row=25, col=20, val=90
+Thread (26): do mul -> row=26, col=20, val=85
+Thread (2): do mul -> row=2, col=21, val=77
+Thread (3): do mul -> row=3, col=21, val=109
+Thread (4): do mul -> row=4, col=21, val=86
+Thread (5): do mul -> row=5, col=21, val=89
+Thread (7): do mul -> row=7, col=21, val=100
+Thread (6): do mul -> row=6, col=21, val=100
+Thread (8): do mul -> row=8, col=21, val=106
+Thread (10): do mul -> row=10, col=21, val=100
+Thread (9): do mul -> row=9, col=21, val=92
+Thread (11): do mul -> row=11, col=21, val=98
+Thread (12): do mul -> row=12, col=21, val=87
+Thread (13): do mul -> row=13, col=21, val=103
+Thread (14): do mul -> row=14, col=21, val=110
+Thread (15): do mul -> row=15, col=21, val=83
+Thread (16): do mul -> row=16, col=21, val=96
+Thread (17): do mul -> row=17, col=21, val=110
+Thread (19): do mul -> row=19, col=21, val=88
+Thread (18): do mul -> row=18, col=21, val=94
+Thread (20): do mul -> row=20, col=21, val=94
+Thread (21): do mul -> row=21, col=21, val=100
+Thread (22): do mul -> row=22, col=21, val=109
+Thread (23): do mul -> row=23, col=21, val=93
+Thread (24): do mul -> row=24, col=21, val=101
+Thread (25): do mul -> row=25, col=21, val=93
+Thread (26): do mul -> row=26, col=21, val=94
+Thread (2): do mul -> row=2, col=22, val=89
+Thread (3): do mul -> row=3, col=22, val=112
+Thread (4): do mul -> row=4, col=22, val=102
+Thread (5): do mul -> row=5, col=22, val=100
+Thread (7): do mul -> row=7, col=22, val=114
+Thread (6): do mul -> row=6, col=22, val=108
+Thread (8): do mul -> row=8, col=22, val=107
+Thread (10): do mul -> row=10, col=22, val=116
+Thread (9): do mul -> row=9, col=22, val=106
+Thread (11): do mul -> row=11, col=22, val=113
+Thread (12): do mul -> row=12, col=22, val=97
+Thread (13): do mul -> row=13, col=22, val=106
+Thread (14): do mul -> row=14, col=22, val=113
+Thread (15): do mul -> row=15, col=22, val=92
+Thread (16): do mul -> row=16, col=22, val=96
+Thread (17): do mul -> row=17, col=22, val=113
+Thread (19): do mul -> row=19, col=22, val=97
+Thread (18): do mul -> row=18, col=22, val=97
+Thread (20): do mul -> row=20, col=22, val=100
+Thread (21): do mul -> row=21, col=22, val=112
+Thread (22): do mul -> row=22, col=22, val=123
+Thread (23): do mul -> row=23, col=22, val=103
+Thread (24): do mul -> row=24, col=22, val=108
+Thread (25): do mul -> row=25, col=22, val=99
+Thread (26): do mul -> row=26, col=22, val=97
+Thread (2): do mul -> row=2, col=23, val=88
+Thread (3): do mul -> row=3, col=23, val=122
+Thread (4): do mul -> row=4, col=23, val=105
+Thread (5): do mul -> row=5, col=23, val=101
+Thread (7): do mul -> row=7, col=23, val=112
+Thread (6): do mul -> row=6, col=23, val=109
+Thread (8): do mul -> row=8, col=23, val=120
+Thread (10): do mul -> row=10, col=23, val=108
+Thread (9): do mul -> row=9, col=23, val=100
+Thread (11): do mul -> row=11, col=23, val=110
+Thread (12): do mul -> row=12, col=23, val=104
+Thread (13): do mul -> row=13, col=23, val=109
+Thread (14): do mul -> row=14, col=23, val=114
+Thread (15): do mul -> row=15, col=23, val=103
+Thread (16): do mul -> row=16, col=23, val=107
+Thread (17): do mul -> row=17, col=23, val=122
+Thread (19): do mul -> row=19, col=23, val=97
+Thread (18): do mul -> row=18, col=23, val=102
+Thread (20): do mul -> row=20, col=23, val=95
+Thread (21): do mul -> row=21, col=23, val=112
+Thread (22): do mul -> row=22, col=23, val=120
+Thread (23): do mul -> row=23, col=23, val=106
+Thread (24): do mul -> row=24, col=23, val=105
+Thread (25): do mul -> row=25, col=23, val=103
+Thread (26): do mul -> row=26, col=23, val=102
+Thread (2): do mul -> row=2, col=24, val=97
+Thread (3): do mul -> row=3, col=24, val=127
+Thread (4): do mul -> row=4, col=24, val=110
+Thread (5): do mul -> row=5, col=24, val=100
+Thread (7): do mul -> row=7, col=24, val=125
+Thread (6): do mul -> row=6, col=24, val=124
+Thread (8): do mul -> row=8, col=24, val=121
+Thread (10): do mul -> row=10, col=24, val=121
+Thread (9): do mul -> row=9, col=24, val=116
+Thread (11): do mul -> row=11, col=24, val=117
+Thread (12): do mul -> row=12, col=24, val=103
+Thread (13): do mul -> row=13, col=24, val=117
+Thread (14): do mul -> row=14, col=24, val=128
+Thread (15): do mul -> row=15, col=24, val=108
+Thread (16): do mul -> row=16, col=24, val=113
+Thread (17): do mul -> row=17, col=24, val=123
+Thread (19): do mul -> row=19, col=24, val=102
+Thread (18): do mul -> row=18, col=24, val=107
+Thread (20): do mul -> row=20, col=24, val=114
+Thread (21): do mul -> row=21, col=24, val=121
+Thread (22): do mul -> row=22, col=24, val=127
+Thread (23): do mul -> row=23, col=24, val=111
+Thread (24): do mul -> row=24, col=24, val=119
+Thread (25): do mul -> row=25, col=24, val=108
+Thread (26): do mul -> row=26, col=24, val=108
+Thread (2): do mul -> row=2, col=25, val=96
+Thread (3): do mul -> row=3, col=25, val=131
+Thread (4): do mul -> row=4, col=25, val=110
+Thread (5): do mul -> row=5, col=25, val=104
+Thread (7): do mul -> row=7, col=25, val=126
+Thread (6): do mul -> row=6, col=25, val=118
+Thread (8): do mul -> row=8, col=25, val=119
+Thread (10): do mul -> row=10, col=25, val=123
+Thread (9): do mul -> row=9, col=25, val=114
+Thread (11): do mul -> row=11, col=25, val=119
+Thread (12): do mul -> row=12, col=25, val=106
+Thread (13): do mul -> row=13, col=25, val=117
+Thread (14): do mul -> row=14, col=25, val=126
+Thread (15): do mul -> row=15, col=25, val=107
+Thread (16): do mul -> row=16, col=25, val=107
+Thread (17): do mul -> row=17, col=25, val=128
+Thread (19): do mul -> row=19, col=25, val=103
+Thread (18): do mul -> row=18, col=25, val=107
+Thread (20): do mul -> row=20, col=25, val=110
+Thread (21): do mul -> row=21, col=25, val=116
+Thread (22): do mul -> row=22, col=25, val=122
+Thread (23): do mul -> row=23, col=25, val=110
+Thread (24): do mul -> row=24, col=25, val=109
+Thread (25): do mul -> row=25, col=25, val=109
+Thread (26): do mul -> row=26, col=25, val=103
+Thread (2): do mul -> row=2, col=26, val=103
+Thread (3): do mul -> row=3, col=26, val=138
+Thread (4): do mul -> row=4, col=26, val=121
+Thread (5): do mul -> row=5, col=26, val=111
+Thread (7): do mul -> row=7, col=26, val=130
+Thread (6): do mul -> row=6, col=26, val=133
+Thread (8): do mul -> row=8, col=26, val=126
+Thread (10): do mul -> row=10, col=26, val=129
+Thread (9): do mul -> row=9, col=26, val=118
+Thread (11): do mul -> row=11, col=26, val=124
+Thread (12): do mul -> row=12, col=26, val=110
+Thread (13): do mul -> row=13, col=26, val=133
+Thread (14): do mul -> row=14, col=26, val=136
+Thread (15): do mul -> row=15, col=26, val=113
+Thread (16): do mul -> row=16, col=26, val=115
+Thread (17): do mul -> row=17, col=26, val=131
+Thread (19): do mul -> row=19, col=26, val=111
+Thread (18): do mul -> row=18, col=26, val=110
+Thread (20): do mul -> row=20, col=26, val=124
+Thread (21): do mul -> row=21, col=26, val=130
+Thread (22): do mul -> row=22, col=26, val=136
+Thread (23): do mul -> row=23, col=26, val=119
+Thread (24): do mul -> row=24, col=26, val=127
+Thread (25): do mul -> row=25, col=26, val=116
+Thread (26): do mul -> row=26, col=26, val=111
+Thread (0): do sum -> row=0
+Thread (1): do sum -> row=1
+Thread (2): do sum -> row=2
+Thread (3): do sum -> row=3
+Thread (4): do sum -> row=4
+Thread (5): do sum -> row=5
+Thread (6): do sum -> row=6
+Thread (7): do sum -> row=7
+Thread (8): do sum -> row=8
+Thread (10): do sum -> row=10
+Thread (9): do sum -> row=9
+Thread (11): do sum -> row=11
+Thread (12): do sum -> row=12
+Thread (13): do sum -> row=13
+Thread (14): do sum -> row=14
+Thread (15): do sum -> row=15
+Thread (16): do sum -> row=16
+Thread (17): do sum -> row=17
+Thread (18): do sum -> row=18
+Thread (19): do sum -> row=19
+Thread (20): do sum -> row=20
+Thread (21): do sum -> row=21
+Thread (22): do sum -> row=22
+Thread (23): do sum -> row=23
+Thread (24): do sum -> row=24
+Thread (25): do sum -> row=25
+Thread (26): do sum -> row=26
+
+sum = 79178
